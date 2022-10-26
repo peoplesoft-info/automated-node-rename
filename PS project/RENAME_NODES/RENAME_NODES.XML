@@ -1,0 +1,4119 @@
+<?xml version='1.0'?>
+  <!--Warning : Don't edit this file -->
+  <instance class="PJM">
+    <rowset name="PjmDefn" size="2856" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-15.32.37.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerID></szObjectOwnerID>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>1626</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szProjectName>RENAME_NODES</szProjectName>
+        <szLanguageCd>ENG</szLanguageCd>
+        <szProjectDescr></szProjectDescr>
+        <szSrcDBName>PSFT_HR</szSrcDBName>
+        <szSrcOprId>peoplesoft.info</szSrcOprId>
+        <szSessionId>1f40301b-54b7-11ed-91f2-e937faffc090</szSessionId>
+        <szRunDtTm>2022-10-25-15.48.22.000527</szRunDtTm>
+        <szTgtServerName></szTgtServerName>
+        <szTgtDBName></szTgtDBName>
+        <szTgtOprId></szTgtOprId>
+        <fReportFilter>16232832</fReportFilter>
+        <eTargetOrientation>0</eTargetOrientation>
+        <eCompareType>1</eCompareType>
+        <fKeepTgt>31</fKeepTgt>
+        <nCommitLimit>50</nCommitLimit>
+        <szCompRelease></szCompRelease>
+        <szCompRelDttm></szCompRelDttm>
+        <bMaintenanceProject>0</bMaintenanceProject>
+        <bUseDbFieldNameAttrib>0</bUseDbFieldNameAttrib>
+        <szReleaseLabel></szReleaseLabel>
+        <szReleaseDttm></szReleaseDttm>
+        <nDescrLongLen>0</nDescrLongLen>
+        <hDescrLong>HANDLE</hDescrLong>
+        <nProjectCount>27</nProjectCount>
+        <lpPit> POINTER
+          <rowset name="PjmPit" size="23112" count="27">
+            <row>
+              <eObjectType>32</eObjectType>
+              <szObjectValue_0>NODE_DEFINITION_CI</szObjectValue_0>
+              <szObjectValue_1></szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>74</eObjectID_0>
+              <eObjectID_1>0</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>32</eObjectType>
+              <szObjectValue_0>RENAME_NODE_CI</szObjectValue_0>
+              <szObjectValue_1></szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>74</eObjectID_0>
+              <eObjectID_1>0</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>37</eObjectType>
+              <szObjectValue_0>RENAME_NODE_REQ</szObjectValue_0>
+              <szObjectValue_1></szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>60</eObjectID_0>
+              <eObjectID_1>0</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>37</eObjectType>
+              <szObjectValue_0>RENAME_NODE_RSP</szObjectValue_0>
+              <szObjectValue_1></szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>60</eObjectID_0>
+              <eObjectID_1>0</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>57</eObjectType>
+              <szObjectValue_0>PT_IB_NODE</szObjectValue_0>
+              <szObjectValue_1>PT_IB_NODE</szObjectValue_1>
+              <szObjectValue_2>.</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>116</eObjectID_1>
+              <eObjectID_2>117</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>57</eObjectType>
+              <szObjectValue_0>RENAME_NODE_PKG</szObjectValue_0>
+              <szObjectValue_1>RENAME_NODE_PKG</szObjectValue_1>
+              <szObjectValue_2>.</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>116</eObjectID_1>
+              <eObjectID_2>117</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>PT_IB_NODE</szObjectValue_0>
+              <szObjectValue_1>NodeURI</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>107</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>RENAME_NODE_PKG</szObjectValue_0>
+              <szObjectValue_1>IBHandler</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>107</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>RENAME_NODE_PKG</szObjectValue_0>
+              <szObjectValue_1>ModifyNode</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>107</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>RENAME_NODE_PKG</szObjectValue_0>
+              <szObjectValue_1>ModifyNodeClass</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>107</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>RENAME_NODE_PKG</szObjectValue_0>
+              <szObjectValue_1>PurgeIBMessages</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>107</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>58</eObjectType>
+              <szObjectValue_0>RENAME_NODE_PKG</szObjectValue_0>
+              <szObjectValue_1>RenameNode</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>104</eObjectID_0>
+              <eObjectID_1>107</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>79</eObjectType>
+              <szObjectValue_0>RENAME_NODE</szObjectValue_0>
+              <szObjectValue_1></szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>138</eObjectID_0>
+              <eObjectID_1>0</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>80</eObjectType>
+              <szObjectValue_0>RENAME_NODE_OP_POST</szObjectValue_0>
+              <szObjectValue_1></szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>139</eObjectID_0>
+              <eObjectID_1>0</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>81</eObjectType>
+              <szObjectValue_0>RENAME_NODE_OP_POST</szObjectValue_0>
+              <szObjectValue_1>REQUESTHDLR</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>139</eObjectID_0>
+              <eObjectID_1>140</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>82</eObjectType>
+              <szObjectValue_0>RENAME_NODE_OP_POST</szObjectValue_0>
+              <szObjectValue_1>v1</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>139</eObjectID_0>
+              <eObjectID_1>141</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>83</eObjectType>
+              <szObjectValue_0>~GENERATED~66700338</szObjectValue_0>
+              <szObjectValue_1>1900-01-01</szObjectValue_1>
+              <szObjectValue_2></szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>142</eObjectID_0>
+              <eObjectID_1>21</eObjectID_1>
+              <eObjectID_2>0</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>92</eObjectType>
+              <szObjectValue_0>RENAME_NODES</szObjectValue_0>
+              <szObjectValue_1>RENAME_NODE_REQ</szObjectValue_1>
+              <szObjectValue_2>1</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>157</eObjectID_0>
+              <eObjectID_1>158</eObjectID_1>
+              <eObjectID_2>159</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>92</eObjectType>
+              <szObjectValue_0>RENAME_NODES</szObjectValue_0>
+              <szObjectValue_1>RENAME_NODE_RSP</szObjectValue_1>
+              <szObjectValue_2>1</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>157</eObjectID_0>
+              <eObjectID_1>158</eObjectID_1>
+              <eObjectID_2>159</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>93</eObjectType>
+              <szObjectValue_0>RENAME_NODES</szObjectValue_0>
+              <szObjectValue_1>RENAME_NODE_REQ</szObjectValue_1>
+              <szObjectValue_2>1</szObjectValue_2>
+              <szObjectValue_3>XML</szObjectValue_3>
+              <eObjectID_0>157</eObjectID_0>
+              <eObjectID_1>158</eObjectID_1>
+              <eObjectID_2>159</eObjectID_2>
+              <eObjectID_3>160</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>93</eObjectType>
+              <szObjectValue_0>RENAME_NODES</szObjectValue_0>
+              <szObjectValue_1>RENAME_NODE_RSP</szObjectValue_1>
+              <szObjectValue_2>1</szObjectValue_2>
+              <szObjectValue_3>XML</szObjectValue_3>
+              <eObjectID_0>157</eObjectID_0>
+              <eObjectID_1>158</eObjectID_1>
+              <eObjectID_2>159</eObjectID_2>
+              <eObjectID_3>160</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>96</eObjectType>
+              <szObjectValue_0>RENAME_NODES</szObjectValue_0>
+              <szObjectValue_1>RENAME_NODE_REQ</szObjectValue_1>
+              <szObjectValue_2>1</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>157</eObjectID_0>
+              <eObjectID_1>158</eObjectID_1>
+              <eObjectID_2>159</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>96</eObjectType>
+              <szObjectValue_0>RENAME_NODES</szObjectValue_0>
+              <szObjectValue_1>RENAME_NODE_RSP</szObjectValue_1>
+              <szObjectValue_2>1</szObjectValue_2>
+              <szObjectValue_3></szObjectValue_3>
+              <eObjectID_0>157</eObjectID_0>
+              <eObjectID_1>158</eObjectID_1>
+              <eObjectID_2>159</eObjectID_2>
+              <eObjectID_3>0</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>110</eObjectType>
+              <szObjectValue_0>RENAME_NODES</szObjectValue_0>
+              <szObjectValue_1>RENAME_NODE_REQ</szObjectValue_1>
+              <szObjectValue_2>1</szObjectValue_2>
+              <szObjectValue_3>JSON</szObjectValue_3>
+              <eObjectID_0>157</eObjectID_0>
+              <eObjectID_1>158</eObjectID_1>
+              <eObjectID_2>159</eObjectID_2>
+              <eObjectID_3>177</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>110</eObjectType>
+              <szObjectValue_0>RENAME_NODES</szObjectValue_0>
+              <szObjectValue_1>RENAME_NODE_RSP</szObjectValue_1>
+              <szObjectValue_2>1</szObjectValue_2>
+              <szObjectValue_3>JSON</szObjectValue_3>
+              <eObjectID_0>157</eObjectID_0>
+              <eObjectID_1>158</eObjectID_1>
+              <eObjectID_2>159</eObjectID_2>
+              <eObjectID_3>177</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>120</eObjectType>
+              <szObjectValue_0>RENAME_NODES</szObjectValue_0>
+              <szObjectValue_1>RENAME_NODE_REQ</szObjectValue_1>
+              <szObjectValue_2>1</szObjectValue_2>
+              <szObjectValue_3>HTML</szObjectValue_3>
+              <eObjectID_0>157</eObjectID_0>
+              <eObjectID_1>158</eObjectID_1>
+              <eObjectID_2>159</eObjectID_2>
+              <eObjectID_3>191</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+            <row>
+              <eObjectType>120</eObjectType>
+              <szObjectValue_0>RENAME_NODES</szObjectValue_0>
+              <szObjectValue_1>RENAME_NODE_RSP</szObjectValue_1>
+              <szObjectValue_2>1</szObjectValue_2>
+              <szObjectValue_3>HTML</szObjectValue_3>
+              <eObjectID_0>157</eObjectID_0>
+              <eObjectID_1>158</eObjectID_1>
+              <eObjectID_2>159</eObjectID_2>
+              <eObjectID_3>191</eObjectID_3>
+              <bExecute>0</bExecute>
+              <eSourceStatus>0</eSourceStatus>
+              <eTargetStatus>0</eTargetStatus>
+              <eUpgradeAction>0</eUpgradeAction>
+              <bTakeAction>1</bTakeAction>
+              <bCopyDone>0</bCopyDone>
+              <eRowStatus>3</eRowStatus>
+            </row>
+          </rowset>
+        </lpPit>
+        <nAdsBindingCount>0</nAdsBindingCount>
+        <pPrjAdsBinding>POINTER</pPrjAdsBinding>
+        <bCopyAllSec>1</bCopyAllSec>
+        <bCompAllSec>1</bCompAllSec>
+        <nSecCount>70</nSecCount>
+        <lpSec> POINTER
+          <rowset name="PjmSec" size="1400" count="70">
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>COMMON</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ARA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>BUL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>CFR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>CRO</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>CZE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>DAN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>DUT</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ENG</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ESP</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>FIN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>FRA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>GER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>GRK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>HEB</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>HUN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ITA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>JPN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>KOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>MAY</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>NOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>POL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>POR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ROM</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>RUS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SLK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SLV</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>SVE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>THA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>TUR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>UKE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>VIE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ZHS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>0</eProcessType>
+              <szSectionName>ZHT</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>COMMON</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ARA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>BUL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>CFR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>CRO</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>CZE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>DAN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>DUT</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ENG</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ESP</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>FIN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>FRA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>GER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>GRK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>HEB</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>HUN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ITA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>JPN</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>KOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>MAY</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>NOR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>POL</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>POR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ROM</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>RUS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SER</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SLK</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SLV</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>SVE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>THA</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>TUR</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>UKE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>VIE</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ZHS</szSectionName>
+            </row>
+            <row>
+              <eProcessType>2</eProcessType>
+              <szSectionName>ZHT</szSectionName>
+            </row>
+          </rowset>
+        </lpSec>
+        <nIncCount>0</nIncCount>
+        <lpInc>POINTER</lpInc>
+        <nDepCount>0</nDepCount>
+        <lpDep>POINTER</lpDep>
+        <nLangCount>0</nLangCount>
+        <hLang>HANDLE</hLang>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="BCM">
+    <rowset name="BcmDefn" size="784" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-12.17.47.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>46</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szBcName>NODE_DEFINITION_CI</szBcName>
+        <szBcDisplayName>NODE_DEFINITION_CI</szBcDisplayName>
+        <szBcDescr></szBcDescr>
+        <szBcPanelGroup>IB_NODE</szBcPanelGroup>
+        <szBcMarket>GBL</szBcMarket>
+        <szBcMenuName></szBcMenuName>
+        <szBcSearchRec>PSMSGNODEDEFN</szBcSearchRec>
+        <szBcAddSearchRec>PSMSGNODEDEFN</szBcAddSearchRec>
+        <szLanguageCd>ENG</szLanguageCd>
+        <nItemCount>8</nItemCount>
+        <fStandardMethods>31</fStandardMethods>
+        <hPit> HANDLE
+          <rowset name="BcItem" size="3840" count="8">
+            <row>
+              <ePropertyType>1</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>MSGNODENAME</szBcItemName>
+              <nSeq>1</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>AA-AA-00-00</szScrollName>
+              <szRecName>PSMSGNODEDEFN</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>MSGNODENAME</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47593</nSyncId>
+            </row>
+            <row>
+              <ePropertyType>2</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>MSGNODENAME</szBcItemName>
+              <nSeq>2</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>AA-AA-00-01</szScrollName>
+              <szRecName>PSMSGNODEDEFN</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>MSGNODENAME</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47596</nSyncId>
+            </row>
+            <row>
+              <ePropertyType>5</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>MSGNODENAME</szBcItemName>
+              <nSeq>3</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>AA-AA-00-02</szScrollName>
+              <szRecName>PSMSGNODEDEFN</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>MSGNODENAME</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47594</nSyncId>
+            </row>
+            <row>
+              <ePropertyType>5</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>NODE_TYPE</szBcItemName>
+              <nSeq>4</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>AA-AA-00-02</szScrollName>
+              <szRecName>PSMSGNODEDEFN</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>NODE_TYPE</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47595</nSyncId>
+            </row>
+            <row>
+              <ePropertyType>4</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>NEW_PASSWORD</szBcItemName>
+              <nSeq>56</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>00-00</szScrollName>
+              <szRecName>PSNODE_WRK</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>WRKPASSWORD</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47597</nSyncId>
+            </row>
+            <row>
+              <ePropertyType>4</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>CONFIRM_NEW_PASSWORD</szBcItemName>
+              <nSeq>59</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>00-00</szScrollName>
+              <szRecName>PSNODE_WRK</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>CNFPASSWORD</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47598</nSyncId>
+            </row>
+            <row>
+              <ePropertyType>4</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>CONTENT_URI</szBcItemName>
+              <nSeq>66</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>00-00</szScrollName>
+              <szRecName>DERIVED_NODES</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>URI_TEXT_PSC</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47599</nSyncId>
+            </row>
+            <row>
+              <ePropertyType>4</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>PORTAL_URI</szBcItemName>
+              <nSeq>67</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>00-00</szScrollName>
+              <szRecName>DERIVED_NODES</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>URI_TEXT_PSP</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47600</nSyncId>
+            </row>
+          </rowset>
+        </hPit>
+        <nDescrLongLen>2</nDescrLongLen>
+        <hDescrLong> HANDLE
+          <rowset name="char" size="2" count="1">
+            <row>
+              <hDescrLong></hDescrLong>
+            </row>
+          </rowset>
+        </hDescrLong>
+        <nLangCount>0</nLangCount>
+        <hLang>HANDLE</hLang>
+        <nSyncCount>0</nSyncCount>
+        <hSync>HANDLE</hSync>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="BCM">
+    <rowset name="BcmDefn" size="784" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-12.04.14.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>45</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szBcName>RENAME_NODE_CI</szBcName>
+        <szBcDisplayName>RENAME_NODE_CI</szBcDisplayName>
+        <szBcDescr></szBcDescr>
+        <szBcPanelGroup>IB_NODE_RENAME</szBcPanelGroup>
+        <szBcMarket>GBL</szBcMarket>
+        <szBcMenuName></szBcMenuName>
+        <szBcSearchRec>PSMSGNODEDEFN</szBcSearchRec>
+        <szBcAddSearchRec>PSMSGNODEDEFN</szBcAddSearchRec>
+        <szLanguageCd>ENG</szLanguageCd>
+        <nItemCount>5</nItemCount>
+        <fStandardMethods>29</fStandardMethods>
+        <hPit> HANDLE
+          <rowset name="BcItem" size="2400" count="5">
+            <row>
+              <ePropertyType>1</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>OLD_NODE_NAME</szBcItemName>
+              <nSeq>1</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>AA-AA-00-00</szScrollName>
+              <szRecName>PSMSGNODEDEFN</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>MSGNODENAME</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47588</nSyncId>
+            </row>
+            <row>
+              <ePropertyType>5</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>MSGNODENAME</szBcItemName>
+              <nSeq>2</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>AA-AA-00-02</szScrollName>
+              <szRecName>PSMSGNODEDEFN</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>MSGNODENAME</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47589</nSyncId>
+            </row>
+            <row>
+              <ePropertyType>5</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>NODE_TYPE</szBcItemName>
+              <nSeq>3</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>AA-AA-00-02</szScrollName>
+              <szRecName>PSMSGNODEDEFN</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>NODE_TYPE</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47590</nSyncId>
+            </row>
+            <row>
+              <ePropertyType>4</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>OLD_NODE_NAME</szBcItemName>
+              <nSeq>5</nSeq>
+              <eAccess>2</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>00-00</szScrollName>
+              <szRecName>PSMSGNODEDEFN</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>MSGNODENAME</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47591</nSyncId>
+            </row>
+            <row>
+              <ePropertyType>4</ePropertyType>
+              <szParentCollection>PS_ROOT</szParentCollection>
+              <szBcItemName>NEW_NODE_NAME</szBcItemName>
+              <nSeq>51</nSeq>
+              <eAccess>1</eAccess>
+              <nScrollLevel>0</nScrollLevel>
+              <nScrollNum>0</nScrollNum>
+              <szScrollName>00-00</szScrollName>
+              <szRecName>PSNODE_WRK</szRecName>
+              <szSubRecName></szSubRecName>
+              <szFieldName>MSGNODENAME</szFieldName>
+              <szShortComment></szShortComment>
+              <nDevicePersistence>0</nDevicePersistence>
+              <nLangCount>0</nLangCount>
+              <hLang>HANDLE</hLang>
+              <nRefCount>0</nRefCount>
+              <hRef>HANDLE</hRef>
+              <nSyncId>47592</nSyncId>
+            </row>
+          </rowset>
+        </hPit>
+        <nDescrLongLen>2</nDescrLongLen>
+        <hDescrLong> HANDLE
+          <rowset name="char" size="2" count="1">
+            <row>
+              <hDescrLong></hDescrLong>
+            </row>
+          </rowset>
+        </hDescrLong>
+        <nLangCount>0</nLangCount>
+        <hLang>HANDLE</hLang>
+        <nSyncCount>0</nSyncCount>
+        <hSync>HANDLE</hSync>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="MSDM">
+    <rowset name="MsgDefn" size="1064" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-13.00.17.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId>PPT</szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>31</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szMsgName>RENAME_NODE_REQ</szMsgName>
+        <szLanguageCd>ENG</szLanguageCd>
+        <szAliasName></szAliasName>
+        <szChnl></szChnl>
+        <szDfltVer></szDfltVer>
+        <eStatus>0</eStatus>
+        <bNR>0</bNR>
+        <bValidateStruct>0</bValidateStruct>
+        <eErrorProcMode>0</eErrorProcMode>
+        <szMenuName></szMenuName>
+        <szBarName></szBarName>
+        <szItemName></szItemName>
+        <szPnlMenuItem></szPnlMenuItem>
+        <eAction>0</eAction>
+        <nUseEdit>0</nUseEdit>
+        <nMvtCount>1</nMvtCount>
+        <hMvt> HANDLE
+          <rowset name="MsgVer" size="784" count="1">
+            <row>
+              <szVerName>1</szVerName>
+              <nMsgType>6</nMsgType>
+              <bMsgSchema>0</bMsgSchema>
+              <bMsgPart>0</bMsgPart>
+              <bNotUpgrade>0</bNotUpgrade>
+              <bPartDefaultLogic>0</bPartDefaultLogic>
+              <bExcludeDescInSchema>0</bExcludeDescInSchema>
+              <bMaxOccursLevel0>0</bMaxOccursLevel0>
+              <nMessageUse>0</nMessageUse>
+              <nIncNamespace>0</nIncNamespace>
+              <bSuppressTags>0</bSuppressTags>
+              <szIb_packageid>RENAME_NODES</szIb_packageid>
+              <szIb_schemaname>RENAME_NODE_REQ</szIb_schemaname>
+              <szIb_variantname>1</szIb_variantname>
+              <szIb_rootelement></szIb_rootelement>
+              <szIb_ads></szIb_ads>
+              <bLanguageCode>0</bLanguageCode>
+              <nMptCount>0</nMptCount>
+              <hMpt>HANDLE</hMpt>
+              <nMatCount>0</nMatCount>
+              <hMat>HANDLE</hMat>
+              <nMrtCount>0</nMrtCount>
+              <hMrt>HANDLE</hMrt>
+            </row>
+          </rowset>
+        </hMvt>
+        <nMstCount>0</nMstCount>
+        <hMst>HANDLE</hMst>
+        <szMsgDispName></szMsgDispName>
+        <szDescr>Autogenerated Message</szDescr>
+        <nDescrLongLen>0</nDescrLongLen>
+        <hDescrLong>HANDLE</hDescrLong>
+        <nLangCount>0</nLangCount>
+        <hLang>HANDLE</hLang>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="MSDM">
+    <rowset name="MsgDefn" size="1064" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-13.03.42.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId>PPT</szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>32</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szMsgName>RENAME_NODE_RSP</szMsgName>
+        <szLanguageCd>ENG</szLanguageCd>
+        <szAliasName></szAliasName>
+        <szChnl></szChnl>
+        <szDfltVer></szDfltVer>
+        <eStatus>0</eStatus>
+        <bNR>0</bNR>
+        <bValidateStruct>0</bValidateStruct>
+        <eErrorProcMode>0</eErrorProcMode>
+        <szMenuName></szMenuName>
+        <szBarName></szBarName>
+        <szItemName></szItemName>
+        <szPnlMenuItem></szPnlMenuItem>
+        <eAction>0</eAction>
+        <nUseEdit>0</nUseEdit>
+        <nMvtCount>1</nMvtCount>
+        <hMvt> HANDLE
+          <rowset name="MsgVer" size="784" count="1">
+            <row>
+              <szVerName>1</szVerName>
+              <nMsgType>6</nMsgType>
+              <bMsgSchema>0</bMsgSchema>
+              <bMsgPart>0</bMsgPart>
+              <bNotUpgrade>0</bNotUpgrade>
+              <bPartDefaultLogic>0</bPartDefaultLogic>
+              <bExcludeDescInSchema>0</bExcludeDescInSchema>
+              <bMaxOccursLevel0>0</bMaxOccursLevel0>
+              <nMessageUse>0</nMessageUse>
+              <nIncNamespace>0</nIncNamespace>
+              <bSuppressTags>0</bSuppressTags>
+              <szIb_packageid>RENAME_NODES</szIb_packageid>
+              <szIb_schemaname>RENAME_NODE_RSP</szIb_schemaname>
+              <szIb_variantname>1</szIb_variantname>
+              <szIb_rootelement></szIb_rootelement>
+              <szIb_ads></szIb_ads>
+              <bLanguageCode>0</bLanguageCode>
+              <nMptCount>0</nMptCount>
+              <hMpt>HANDLE</hMpt>
+              <nMatCount>0</nMatCount>
+              <hMat>HANDLE</hMat>
+              <nMrtCount>0</nMrtCount>
+              <hMrt>HANDLE</hMrt>
+            </row>
+          </rowset>
+        </hMvt>
+        <nMstCount>0</nMstCount>
+        <hMst>HANDLE</hMst>
+        <szMsgDispName></szMsgDispName>
+        <szDescr>Autogenerated Message</szDescr>
+        <nDescrLongLen>0</nDescrLongLen>
+        <hDescrLong>HANDLE</hDescrLong>
+        <nLangCount>0</nLangCount>
+        <hLang>HANDLE</hLang>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="APM">
+    <rowset name="ApmDefn" size="968" count="1">
+      <row>
+        <szLastUpdDttm>2021-09-09-19.26.56.000000</szLastUpdDttm>
+        <szLastUpdOprId>PPLSOFT</szLastUpdOprId>
+        <szObjectOwnerId>PPT</szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>1</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szPackageId>PT_IB_NODE</szPackageId>
+        <szLanguageCd>ENG</szLanguageCd>
+        <szPackageRoot>PT_IB_NODE</szPackageRoot>
+        <szQualifyPath>.</szQualifyPath>
+        <lPackageLevel>0</lPackageLevel>
+        <szPackageRef></szPackageRef>
+        <szDescr></szDescr>
+        <lDescrLongLen>0</lDescrLongLen>
+        <lpszDescrLong>POINTER</lpszDescrLong>
+        <eRenameObject>0</eRenameObject>
+        <szPrevPackageId></szPrevPackageId>
+        <ApmDefnList.lClassCount>5</ApmDefnList.lClassCount>
+        <ApmDefnList.hDefnClassList> HANDLE
+          <rowset name="ApmClassList" size="2320" count="5">
+            <row>
+              <ApmClassKey.szClassId>NodeConnectorProperty</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>PT_IB_NODE</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>NodeConnectorProperty</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>NodeDefinition</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>PT_IB_NODE</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>NodeDefinition</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>NodeLockDown</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>PT_IB_NODE</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>NodeLockDown</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>NodeProperty</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>PT_IB_NODE</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>NodeProperty</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>NodeURI</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>PT_IB_NODE</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>NodeURI</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+          </rowset>
+        </ApmDefnList.hDefnClassList>
+        <ApmDefnList.lPackageCount>0</ApmDefnList.lPackageCount>
+        <ApmDefnList.hDefnPackageList>HANDLE</ApmDefnList.hDefnPackageList>
+        <nLangCount>0</nLangCount>
+        <hLang>HANDLE</hLang>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="APM">
+    <rowset name="ApmDefn" size="968" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-14.49.14.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>109</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szPackageId>RENAME_NODE_PKG</szPackageId>
+        <szLanguageCd>ENG</szLanguageCd>
+        <szPackageRoot>RENAME_NODE_PKG</szPackageRoot>
+        <szQualifyPath>.</szQualifyPath>
+        <lPackageLevel>0</lPackageLevel>
+        <szPackageRef></szPackageRef>
+        <szDescr></szDescr>
+        <lDescrLongLen>0</lDescrLongLen>
+        <lpszDescrLong>POINTER</lpszDescrLong>
+        <eRenameObject>0</eRenameObject>
+        <szPrevPackageId></szPrevPackageId>
+        <ApmDefnList.lClassCount>5</ApmDefnList.lClassCount>
+        <ApmDefnList.hDefnClassList> HANDLE
+          <rowset name="ApmClassList" size="2320" count="5">
+            <row>
+              <ApmClassKey.szClassId>IBHandler</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>RENAME_NODE_PKG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>IBHandler</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>ModifyNode</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>RENAME_NODE_PKG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>ModifyNode</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>ModifyNodeClass</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>RENAME_NODE_PKG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>ModifyNodeClass</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>PurgeIBMessages</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>RENAME_NODE_PKG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>PurgeIBMessages</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+            <row>
+              <ApmClassKey.szClassId>RenameNode</ApmClassKey.szClassId>
+              <ApmClassKey.szPackageRoot>RENAME_NODE_PKG</ApmClassKey.szPackageRoot>
+              <ApmClassKey.szQualifyPath>:</ApmClassKey.szQualifyPath>
+              <szClassRef></szClassRef>
+              <lClassLevel>1</lClassLevel>
+              <lClassCount>1</lClassCount>
+              <hClassDefn> HANDLE
+                <rowset name="ApmClassDefn" size="576" count="1">
+                  <row>
+                    <szClassId>RenameNode</szClassId>
+                    <szClassRef></szClassRef>
+                    <szDescr></szDescr>
+                    <eRenameObject>0</eRenameObject>
+                    <szPrevClassId></szPrevClassId>
+                  </row>
+                </rowset>
+              </hClassDefn>
+            </row>
+          </rowset>
+        </ApmDefnList.hDefnClassList>
+        <ApmDefnList.lPackageCount>0</ApmDefnList.lPackageCount>
+        <ApmDefnList.hDefnPackageList>HANDLE</ApmDefnList.hDefnPackageList>
+        <nLangCount>0</nLangCount>
+        <hLang>HANDLE</hLang>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-15.10.43.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>100946</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>PT_IB_NODE</szObjectValue_0>
+        <eObjectID_1>107</eObjectID_1>
+        <szObjectValue_1>NodeURI</szObjectValue_1>
+        <eObjectID_2>12</eObjectID_2>
+        <szObjectValue_2>OnExecute</szObjectValue_2>
+        <eObjectID_3>0</eObjectID_3>
+        <szObjectValue_3></szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>2</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>1114</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>290</lEntryNamesLen>
+              <nEntry>9</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>8</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="1068" count="2">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>MSGNODEURI</szFieldName>
+              <szPackageRoot>%Metadata</szPackageRoot>
+              <szQualifyPath>NodeDefn</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>import %metadata:NodeDefn:NodeURI:*;
+
+class NodeURI
+   /* Constructor */
+   method NodeURI(&amp;oNodeProperty As %metadata:NodeDefn:MsgNodeURI);
+   
+   /* properties */
+   property string URIType get set;
+   property string URIText get set;
+   
+private
+   
+   /* Private vars */
+   instance %metadata:NodeDefn:MsgNodeURI &amp;m_NodeURI;
+   
+end-class;
+
+method NodeURI
+   /+ &amp;oNodeProperty as %Metadata:NodeDefn:MsgNodeURI +/
+   &amp;m_NodeURI = &amp;oNodeProperty;
+end-method;
+
+get URIType
+   /+ Returns String +/
+   Return &amp;m_NodeURI.URIType;
+end-get;
+
+set URIType
+   /+ &amp;NewValue as String +/
+   &amp;m_NodeURI.URIType = &amp;NewValue;
+end-set;
+
+get URIText
+   /+ Returns String +/
+   Return &amp;m_NodeURI.URIText;
+end-get;
+
+set URIText
+   /+ &amp;NewValue as String +/
+   &amp;m_NodeURI.URIText = &amp;NewValue;
+end-set;
+
+</peoplecode_text>
+    <peoplecode_blob>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</peoplecode_blob>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-14.59.12.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>100941</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>RENAME_NODE_PKG</szObjectValue_0>
+        <eObjectID_1>107</eObjectID_1>
+        <szObjectValue_1>IBHandler</szObjectValue_1>
+        <eObjectID_2>12</eObjectID_2>
+        <szObjectValue_2>OnExecute</szObjectValue_2>
+        <eObjectID_3>0</eObjectID_3>
+        <szObjectValue_3></szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>9</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>5622</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>156</lEntryNamesLen>
+              <nEntry>3</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>4</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="4806" count="9">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>IREQUESTHANDLER</szFieldName>
+              <szPackageRoot>PS_PT</szPackageRoot>
+              <szQualifyPath>Integration</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>PURGEIBMESSAGES</szFieldName>
+              <szPackageRoot>RENAME_NODE_PKG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>RENAMENODE</szFieldName>
+              <szPackageRoot>RENAME_NODE_PKG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>MODIFYNODECLASS</szFieldName>
+              <szPackageRoot>RENAME_NODE_PKG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>MESSAGE</szFieldName>
+              <szPackageRoot>Message</szPackageRoot>
+              <szQualifyPath>Message</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>OPERATION</szRecName>
+              <szFieldName>RENAME_NODE_OP_POST</szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>DOCUMENT</szFieldName>
+              <szPackageRoot>Document</szPackageRoot>
+              <szQualifyPath>Document</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>COMPOUND</szFieldName>
+              <szPackageRoot>Compound</szPackageRoot>
+              <szQualifyPath>Compound</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass>PS_PT:Integration:IRequestHandler</szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>import PS_PT:Integration:IRequestHandler;
+import RENAME_NODE_PKG:PurgeIBMessages;
+import RENAME_NODE_PKG:RenameNode;
+import RENAME_NODE_PKG:ModifyNodeClass;
+
+class IBHandler implements PS_PT:Integration:IRequestHandler
+   method OnRequest(&amp;MSG As Message) Returns Message;
+   method OnError(&amp;MSG As Message) Returns string;
+end-class;
+
+method OnRequest
+   /+ &amp;MSG as Message +/
+   /+ Returns Message +/
+   /+ Extends/implements PS_PT:Integration:IRequestHandler.OnRequest +/
+   Local Message &amp;requestMsg = CreateMessage(Operation.RENAME_NODE_OP_POST, %IntBroker_Request);
+   Local Document &amp;requestDoc = &amp;MSG.GetDocument();
+   Local boolean &amp;ret = &amp;requestDoc.ParseJsonString(&amp;MSG.GetContentString());
+   Local Compound &amp;request = &amp;requestDoc.DocumentElement;
+   Local Message &amp;responseMsg = CreateMessage(Operation.RENAME_NODE_OP_POST, %IntBroker_Response);
+   Local Document &amp;responseDoc = &amp;responseMsg.GetDocument();
+   Local Compound &amp;response = &amp;responseDoc.DocumentElement;
+   
+   /*
+INPUT JSON example:
+
+{&quot;RENAME_NODE_REQ&quot;: {
+&quot;old_node_name&quot;: &quot;old&quot;,&quot;new_node_name&quot;: &quot;new&quot;,&quot;node_password&quot;: &quot;&quot;,&quot;portal_uri&quot;: &quot;&quot;,&quot;content_uri&quot;: &quot;&quot;,&quot;purge_messages&quot;: false}
+}
+*/
+   
+   Local boolean &amp;shouldPurgeMessages = &amp;request.GetPropertyByName(&quot;purge_messages&quot;).value;
+   Local string &amp;oldNodeName = &amp;request.GetPropertyByName(&quot;old_node_name&quot;).value;
+   Local string &amp;newNodeName = &amp;request.GetPropertyByName(&quot;new_node_name&quot;).value;
+   Local string &amp;newNodePassword = &amp;request.GetPropertyByName(&quot;node_password&quot;).value;
+   Local string &amp;portalURI = &amp;request.GetPropertyByName(&quot;portal_uri&quot;).value;
+   Local string &amp;contentURI = &amp;request.GetPropertyByName(&quot;content_uri&quot;).value;
+   
+   If &amp;oldNodeName = &quot;&quot; Then
+      throw CreateException(0, 0, &quot;old_node_name is a required field&quot;);
+   End-If;
+   
+   If &amp;newNodeName = &quot;&quot; Then
+      throw CreateException(0, 0, &quot;new_node_name is a required field&quot;);
+   End-If;
+   
+   If &amp;shouldPurgeMessages Then
+      Local RENAME_NODE_PKG:PurgeIBMessages &amp;purgeClass = create RENAME_NODE_PKG:PurgeIBMessages();
+      &amp;purgeClass.purgeMessages();
+   End-If;
+   
+   Local RENAME_NODE_PKG:ModifyNodeClass &amp;modifyClass = create RENAME_NODE_PKG:ModifyNodeClass(&amp;oldNodeName);
+   If &amp;newNodePassword &lt;&gt; &quot;&quot; Then
+      &amp;modifyClass.updatePassword(&amp;newNodePassword);
+   End-If;
+   
+   If &amp;portalURI &lt;&gt; &quot;&quot; Then
+      &amp;modifyClass.updatePortalURI(&amp;portalURI);
+   End-If;
+   
+   If &amp;contentURI &lt;&gt; &quot;&quot; Then
+      &amp;modifyClass.updateContentURI(&amp;contentURI);
+   End-If;
+   &amp;modifyClass.saveChanges();
+   
+   Local RENAME_NODE_PKG:RenameNode &amp;renameClass = create RENAME_NODE_PKG:RenameNode();
+   &amp;renameClass.RenameNodes(&amp;oldNodeName, &amp;newNodeName);
+   
+   &amp;response.GetPropertyByName(&quot;success&quot;).value = True;
+   &amp;response.GetPropertyByName(&quot;error_message&quot;).value = &quot;&quot;;
+   
+   /*
+Output JSON example:
+
+{
+    &quot;RENAME_NODE_RSP&quot;: {
+        &quot;success&quot;: true,
+        &quot;error_message&quot;: &quot;&quot;
+    }
+}
+*/
+   
+   Return &amp;responseMsg;
+end-method;
+
+method OnError
+   /+ &amp;MSG as Message +/
+   /+ Returns String +/
+   /+ Extends/implements PS_PT:Integration:IRequestHandler.OnError +/
+   
+   Local Message &amp;responseMsg = CreateMessage(Operation.RENAME_NODE_OP_POST, %IntBroker_Fault);
+   Local Document &amp;responseDoc = &amp;responseMsg.GetDocument();
+   Local Compound &amp;response = &amp;responseDoc.DocumentElement;
+   &amp;response.GetPropertyByName(&quot;success&quot;).value = False;
+   &amp;response.GetPropertyByName(&quot;error_message&quot;).value = &amp;MSG.IBException.DefaultText;
+   
+   Return &amp;responseDoc.GenJsonString();
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>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ACIAOgAgAHsACgAiAG8AbABkAF8AbgBvAGQAZQBfAG4AYQBtAGUAIgA6ACAAIgBvAGwAZAAiACwAIgBuAGUAdwBfAG4AbwBkAGUAXwBuAGEAbQBlACIAOgAgACIAbgBlAHcAIgAsACIAbgBvAGQAZQBfAHAAYQBzAHMAdwBvAHIAZAAiADoAIAAiACIALAAiAHAAbwByAHQAYQBsAF8AdQByAGkAIgA6ACAAIgAiACwAIgBjAG8AbgB0AGUAbgB0AF8AdQByAGkAIgA6ACAAIgAiACwAIgBwAHUAcgBnAGUAXwBtAGUAcwBzAGEAZwBlAHMAIgA6ACAAZgBhAGwAcwBlAH0ACgB9AAoAKgAvAE9EQA5iAG8AbwBsAGUAYQBuAAEoJgBzAGgAbwB1AGwAZABQAHUAcgBnAGUATQBlAHMAcwBhAGcAZQBzAAYBECYAcgBlAHEAdQBlAHMAdAAFCiJHAGUAdABQAHIAbwBwAGUAcgB0AHkAQgB5AE4AYQBtAGUACxYccAB1AHIAZwBlAF8AbQBlAHMAcwBhAGcAZQBzABQFCgp2AGEAbAB1AGUAFURADHMAdAByAGkAbgBnAAEYJgBvAGwAZABOAG8AZABlAE4AYQBtAGUABgEQJgByAGUAcQB1AGUAcwB0AAUKIkcAZQB0AFAAcgBvAHAAZQByAHQAeQBCAHkATgBhAG0AZQALFhpvAGwAZABfAG4AbwBkAGUAXwBuAGEAbQBlABQFCgp2AGEAbAB1AGUAFURADHMAdAByAGkAbgBnAAEYJgBuAGUAdwBOAG8AZABlAE4AYQBtAGUABgEQJgByAGUAcQB1AGUAcwB0AAUKIkcAZQB0AFAAcgBvAHAAZQByAHQAeQBCAHkATgBhAG0AZQALFhpuAGUAdwBfAG4AbwBkAGUAXwBuAGEAbQBlABQFCgp2AGEAbAB1AGUAFURADHMAdAByAGkAbgBnAAEgJgBuAGUAdwBOAG8AZABlAFAAYQBzAHMAdwBvAHIAZAAGARAmAHIAZQBxAHUAZQBzAHQABQoiRwBlAHQAUAByAG8AcABlAHIAdAB5AEIAeQBOAGEAbQBlAAsWGm4AbwBkAGUAXwBwAGEAcwBzAHcAbwByAGQAFAUKCnYAYQBsAHUAZQAVREAMcwB0AHIAaQBuAGcAARQmAHAAbwByAHQAYQBsAFUAUgBJ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dQBlAAYvFQESJgByAGUAcwBwAG8AbgBzAGUABQoiRwBlAHQAUAByAG8AcABlAHIAdAB5AEIAeQBOAGEAbQBlAAsWGmUAcgByAG8AcgBfAG0AZQBzAHMAYQBnAGUAFAUKCnYAYQBsAHUAZQAGFgAVTyTmAOYvACoACgBPAHUAdABwAHUAdAAgAEoAUwBPAE4AIABlAHgAYQBtAHAAbABlADoACgAKAHsACgAgACAAIAAgACIAUgBFAE4AQQBNAEUAXwBOAE8ARABFAF8AUgBTAFAAIgA6ACAAewAKACAAIAAgACAAIAAgACAAIAAiAHMAdQBjAGMAZQBzAHMAIgA6ACAAdAByAHUAZQAsAAoAIAAgACAAIAAgACAAIAAgACIAZQByAHIAbwByAF8AbQBlAHMAcwBhAGcAZQAiADoAIAAiACIACgAgACAAIAAgAH0ACgB9AAoAKgAvAE84ARgmAHIAZQBzAHAAbwBuAHMAZQBNAHMAZwAVZBUtT2NBCg5PAG4ARQByAHIAbwByAC1tHiYATQBTAEcAIABhAHMAIABNAGUAcwBzAGEAZwBlAG0cUgBlAHQAdQByAG4AcwAgAFMAdAByAGkAbgBnAG14RQB4AHQAZQBuAGQAcwAvAGkAbQBwAGwAZQBtAGUAbgB0AHMAIABQAFMAXwBQAFQAOgBJAG4AdABlAGcAcgBhAHQAaQBvAG4AOgBJAFIAZQBxAHUAZQBzAHQASABhAG4AZABsAGUAcgAuAE8AbgBFAHIAcgBvAHIAT0QKDk0AZQBzAHMAYQBnAGUAARgmAHIAZQBzAHAAbwBuAHMAZQBNAHMAZwAGChpDAHIAZQBhAHQAZQBNAGUAcwBzAGEAZwBlAAshBgADEiAlAEkAbgB0AEIAcgBvAGsAZQByAF8ARgBhAHUAbAB0ABQVRAoQRABvAGMAdQBtAGUAbgB0AAEYJgByAGUAcwBwAG8AbgBzAGUARABvAGMABgEYJgByAGUAcwBwAG8AbgBzAGUATQBzAGcABQoWRwBlAHQARABvAGMAdQBtAGUAbgB0AAsUFUQKEEMAbwBtAHAAbwB1AG4AZAABEiYAcgBlAHMAcABvAG4AcwBlAAYBGCYAcgBlAHMAcABvAG4AcwBlAEQAbwBjAAUKHkQAbwBjAHUAbQBlAG4AdABFAGwAZQBtAGUAbgB0ABUBEiYAcgBlAHMAcABvAG4AcwBlAAUKIkcAZQB0AFAAcgBvAHAAZQByAHQAeQBCAHkATgBhAG0AZQALFg5zAHUAYwBjAGUAcwBzABQFCgp2AGEAbAB1AGUABjAVARImAHIAZQBzAHAAbwBuAHMAZQAFCiJHAGUAdABQAHIAbwBwAGUAcgB0AHkAQgB5AE4AYQBtAGUACxYaZQByAHIAbwByAF8AbQBlAHMAcwBhAGcAZQAUBQoKdgBhAGwAdQBlAAYBCCYATQBTAEcABQoWSQBCAEUAeABjAGUAcAB0AGkAbwBuAAUKFkQAZQBmAGEAdQBsAHQAVABlAHgAdAAVTzgBGCYAcgBlAHMAcABvAG4AcwBlAEQAbwBjAAUKGkcAZQBuAEoAcwBvAG4AUwB0AHIAaQBuAGcACxQVZBUtB5wD/wEAAAAA/wAAQAD/LAEIADJSAEUATgBBAE0ARQBfAE4ATwBEAEUAXwBQAEsARwA6AEkAQgBIAGEAbgBkAGwAZQByAAAB/w4ACAASTwBuAFIAZQBxAHUAZQBzAHQAAgEBDk8AbgBFAHIAcgBvAHIAQlAAUwBfAFAAVAA6AEkAbgB0AGUAZwByAGEAdABpAG8AbgA6AEkAUgBlAHEAdQBlAHMAdABIAGEAbgBkAGwAZQByAAT/AQAAAP8OAAgAB/8OAAgAB4UAAA5QAEEAQwBLAEEARwBFAB5JAFIARQBRAFUARQBTAFQASABBAE4ARABMAEUAUgAOUABBAEMASwBBAEcARQAeUABVAFIARwBFAEkAQgBNAEUAUwBTAEEARwBFAFMADlAAQQBDAEsAQQBHAEUAFFIARQBOAEEATQBFAE4ATwBEAEUADlAAQQBDAEsAQQBHAEUAHk0ATwBEAEkARgBZAE4ATwBEAEUAQwBMAEEAUwBTAA5QAEEAQwBLAEEARwBFAA5NAEUAUwBTAEEARwBFABJPAFAARQBSAEEAVABJAE8ATgAmUgBFAE4AQQBNAEUAXwBOAE8ARABFAF8ATwBQAF8AUABPAFMAVAAOUABBAEMASwBBAEcARQAQRABPAEMAVQBNAEUATgBUAA5QAEEAQwBLAEEARwBFABBDAE8ATQBQAE8AVQBOAEQA</peoplecode_blob>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-14.52.03.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>100938</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>RENAME_NODE_PKG</szObjectValue_0>
+        <eObjectID_1>107</eObjectID_1>
+        <szObjectValue_1>ModifyNode</szObjectValue_1>
+        <eObjectID_2>12</eObjectID_2>
+        <szObjectValue_2>OnExecute</szObjectValue_2>
+        <eObjectID_3>0</eObjectID_3>
+        <szObjectValue_3></szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>4</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>2965</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>242</lEntryNamesLen>
+              <nEntry>9</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>11</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="2136" count="4">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>APIOBJECT</szFieldName>
+              <szPackageRoot>ApiObject</szPackageRoot>
+              <szQualifyPath>ApiObject</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>COMPINTFC</szRecName>
+              <szFieldName>NODE_DEFINITION_CI</szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>MODIFYNODE</szFieldName>
+              <szPackageRoot>RENAME_NODE_PKG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod>HANDLECIERRORS</szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>/*
+CI approach to modifying a node
+Does not work as of PeopleTools 8.59 because rowinit calls %request which dooes not exist in a CI.
+Use ModifyNodeClass instead
+*/
+class ModifyNode
+   method ModifyNode(&amp;nodeName As string);
+   
+   method updatePassword(&amp;newPassword As string);
+   method updateContentURI(&amp;newContentURI As string);
+   method updatePortalURI(&amp;newPortalURI As string);
+   
+   method saveChanges();
+   
+private
+   instance ApiObject &amp;ci;
+   instance string &amp;node;
+   method handleCIErrors(&amp;baseMessage As string);
+end-class;
+
+method ModifyNode
+   /+ &amp;nodeName as String +/
+   &amp;ci = %Session.GetCompIntfc(CompIntfc.NODE_DEFINITION_CI);
+   If &amp;ci = Null Then
+      throw CreateException(0, 0, &quot;The user does not have permissions for NODE_DEFINITION_CI&quot;);
+   End-If;
+   
+   &amp;ci.MSGNODENAME = &amp;nodeName;
+   
+   &amp;ci.EditHistoryItems = False;
+   &amp;ci.GetHistoryItems = False;
+   &amp;ci.GetDummyRows = False;
+   &amp;ci.InteractiveMode = True;
+   
+   If Not &amp;ci.Get() Then
+      %This.handleCIErrors(&quot;Node '&quot; | &amp;nodeName | &quot;' does not exist&quot;);
+   End-If;
+   
+   %This.node = &amp;nodeName;
+end-method;
+
+method updatePassword
+   /+ &amp;newPassword as String +/
+   &amp;ci.NEW_PASSWORD = &amp;newPassword;
+   &amp;ci.CONFIRM_NEW_PASSWORD = &amp;newPassword;
+end-method;
+
+method updateContentURI
+   /+ &amp;newContentURI as String +/
+   &amp;ci.CONTENT_URI = &amp;newContentURI;
+end-method;
+
+method updatePortalURI
+   /+ &amp;newPortalURI as String +/
+   &amp;ci.PORTAL_URI = &amp;newPortalURI;
+end-method;
+
+method saveChanges
+   If Not &amp;ci.save() Then
+      %This.handleCIErrors(&quot;Unable to save updates to node '&quot; | %This.node | &quot;'&quot;);
+   End-If;
+end-method;
+
+method handleCIErrors
+   /+ &amp;baseMessage as String +/
+   Local ApiObject &amp;messages;
+   Local number &amp;i;
+   Local string &amp;errors;
+   
+   &amp;messages = %Session.PSMessages;
+   For &amp;i = 1 To &amp;messages.Count
+      &amp;errors = &amp;errors | &amp;messages.Item(&amp;i).Text;
+   End-For;
+   &amp;messages.DeleteAll();
+   
+   throw CreateException(0, 0, &amp;baseMessage | &quot;: &quot; | &amp;errors);
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>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</peoplecode_blob>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-15.11.31.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>100947</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>RENAME_NODE_PKG</szObjectValue_0>
+        <eObjectID_1>107</eObjectID_1>
+        <szObjectValue_1>ModifyNodeClass</szObjectValue_1>
+        <eObjectID_2>12</eObjectID_2>
+        <szObjectValue_2>OnExecute</szObjectValue_2>
+        <eObjectID_3>0</eObjectID_3>
+        <szObjectValue_3></szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>4</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>2856</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>344</lEntryNamesLen>
+              <nEntry>9</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>11</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="2136" count="4">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>NODEDEFINITION</szFieldName>
+              <szPackageRoot>PT_IB_NODE</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>NODEURI</szFieldName>
+              <szPackageRoot>PT_IB_NODE</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>MODIFYNODECLASS</szFieldName>
+              <szPackageRoot>RENAME_NODE_PKG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod>REMOVENODEURITYPE</szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>import PT_IB_NODE:NodeDefinition;
+import PT_IB_NODE:NodeURI;
+
+class ModifyNodeClass
+   method ModifyNodeClass(&amp;nodeName As string);
+   
+   method updatePassword(&amp;newPassword As string);
+   method updateContentURI(&amp;newContentURI As string);
+   method updatePortalURI(&amp;newPortalURI As string);
+   
+   method saveChanges();
+private
+   instance PT_IB_NODE:NodeDefinition &amp;nodeDefinition;
+   instance string &amp;node;
+   method removeNodeURIType(&amp;type As string);
+end-class;
+
+method ModifyNodeClass
+   /+ &amp;nodeName as String +/
+   &amp;nodeDefinition = create PT_IB_NODE:NodeDefinition(&amp;nodeName);
+   If &amp;nodeDefinition.IsNew Then
+      throw CreateException(0, 0, &quot;Node '&quot; | &amp;nodeName | &quot;' does not exist.&quot;);
+   End-If;
+   %This.node = &amp;nodeName;
+end-method;
+
+method updatePassword
+   /+ &amp;newPassword as String +/
+   &amp;nodeDefinition.IbPassword = &amp;newPassword;
+end-method;
+
+method updateContentURI
+   /+ &amp;newContentURI as String +/
+   %This.removeNodeURIType(&quot;CN&quot;);
+   Local PT_IB_NODE:NodeURI &amp;MsgNodeCNUri = &amp;nodeDefinition.AddNodeURI(&quot;CN&quot;, &amp;newContentURI);
+end-method;
+
+method updatePortalURI
+   /+ &amp;newPortalURI as String +/
+   %This.removeNodeURIType(&quot;PL&quot;);
+   Local PT_IB_NODE:NodeURI &amp;MsgNodePLUri = &amp;nodeDefinition.AddNodeURI(&quot;PL&quot;, &amp;newPortalURI);
+end-method;
+
+method saveChanges
+   Local boolean &amp;ret = &amp;nodeDefinition.Save();
+   If Not &amp;ret Then
+      throw CreateException(0, 0, &quot;Cannot update node &quot; | %This.node);
+   End-If;
+end-method;
+
+method removeNodeURIType
+   /+ &amp;type as String +/
+   Local integer &amp;i;
+   For &amp;i = 1 To &amp;nodeDefinition.GetNodeURICount()
+      Local PT_IB_NODE:NodeURI &amp;uri = &amp;nodeDefinition.GetNodeURI(&amp;i);
+      If &amp;uri.URIType = &amp;type Then
+         Local boolean &amp;ret = &amp;nodeDefinition.DeleteNodeURI(&amp;i);
+         If Not &amp;ret Then
+            throw CreateException(0, 0, &quot;Cannot remove node URI type &quot; | &amp;type);
+         End-If;
+         Break;
+      End-If;
+   End-For;
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>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</peoplecode_blob>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-14.28.24.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>100932</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>RENAME_NODE_PKG</szObjectValue_0>
+        <eObjectID_1>107</eObjectID_1>
+        <szObjectValue_1>PurgeIBMessages</szObjectValue_1>
+        <eObjectID_2>12</eObjectID_2>
+        <szObjectValue_2>OnExecute</szObjectValue_2>
+        <eObjectID_3>0</eObjectID_3>
+        <szObjectValue_3></szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>1</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>2934</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>92</lEntryNamesLen>
+              <nEntry>2</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>1</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="534" count="1">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>class PurgeIBMessages
+   method purgeMessages();
+end-class;
+
+method purgeMessages
+   SQLExec(&quot;DELETE FROM PSAPMSGPUBHDR&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGPUBDATA&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGPUBCON&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGSUBCON&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGPUBERR&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGPUBERRP&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGPUBCERR&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGPUBCERRP&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGSUBCERR&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGSUBCERRP&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGPCONDATA&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGSCONDATA&quot;);
+   SQLExec(&quot;DELETE FROM PSIBERR&quot;);
+   SQLExec(&quot;DELETE FROM PSIBERRP&quot;);
+   SQLExec(&quot;DELETE FROM PSIBDEBUGLOG&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGIBATTR&quot;);
+   SQLExec(&quot;DELETE FROM PSIBAEATTR&quot;);
+   SQLExec(&quot;DELETE FROM PSIBRELMSGSEQ&quot;);
+   SQLExec(&quot;DELETE FROM PSIBRELMSGHDR&quot;);
+   SQLExec(&quot;DELETE FROM PSIBRELMSGDATA&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGDOMSTAT&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGDSPSTAT&quot;);
+   
+   SQLExec(&quot;DELETE FROM PSIBLOGHDR&quot;);
+   SQLExec(&quot;DELETE FROM PSIBLOGDATA&quot;);
+   SQLExec(&quot;DELETE FROM PSIBLOGERR&quot;);
+   SQLExec(&quot;DELETE FROM PSIBLOGERRP&quot;);
+   SQLExec(&quot;DELETE FROM PSIBLOGIBINFO&quot;);
+   
+   SQLExec(&quot;DELETE FROM PSAPMSGARCHPH&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGARCHPD&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGARCHPC&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGARCHSC&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGARCHPT&quot;);
+   SQLExec(&quot;DELETE FROM PSAPMSGARCHST&quot;);
+   SQLExec(&quot;DELETE FROM PSIBLOGHDRARCH&quot;);
+   SQLExec(&quot;DELETE FROM PSIBLOGDATAARCH&quot;);
+   SQLExec(&quot;DELETE FROM PSIBLOGIBINFOAR&quot;);
+   
+   SQLExec(&quot;DELETE FROM PSIBFCLOCK&quot;);
+   SQLExec(&quot;DELETE FROM PSIBADSLOCK&quot;);
+   
+   SQLExec(&quot;DELETE FROM PSNODESDOWN&quot;);
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>qQwAAAQDAgEBAAAAvAIAAAAAAABoHlIARQBOAEEATQBFAF8ATgBPAEQARQBfAFAASwBHAGseUAB1AHIAZwBlAEkAQgBNAGUAcwBzAGEAZwBlAHMADBJPAG4ARQB4AGUAYwB1AHQAZQAAAAAAAAAAAP9EigEAAQABAP8AAAAAAAAAADQyADAAMgAyAC0AMQAwAC0AMgA1AC0AMQA0AC4AMgA4AC4AMgA0AC4AMAAwADAAMAAwADAANDIAMAAyADIALQAxADAALQAyADUALQAxADQALgAyADgALgAyADQALgAwADAAMAAwADAAMAAWbQBhAHIAawAuAHAAcgBpAGQAZAB5AAAA/3YLAAD/AQAAAFoKHlAAdQByAGcAZQBJAEIATQBlAHMAcwBhAGcAZQBzAGMKGnAAdQByAGcAZQBNAGUAcwBzAGEAZwBlAHMACxQVWxUtT2NBChpwAHUAcgBnAGUATQBlAHMAcwBhAGcAZQBzAC0KDlMAUQBMAEUAeABlAGMACxYyRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEEAUABNAFMARwBQAFUAQgBIAEQAUgAUFQoOUwBRAEwARQB4AGUAYwALFjREAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMAQQBQAE0AUwBHAFAAVQBCAEQAQQBUAEEAFBUKDlMAUQBMAEUAeABlAGMACxYyRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEEAUABNAFMARwBQAFUAQgBDAE8ATgAUFQoOUwBRAEwARQB4AGUAYwALFjJEAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMAQQBQAE0AUwBHAFMAVQBCAEMATwBOABQVCg5TAFEATABFAHgAZQBjAAsWMkQARQBMAEUAVABFACAARgBSAE8ATQAgAFAAUwBBAFAATQBTAEcAUABVAEIARQBSAFIAFBUKDlMAUQBMAEUAeABlAGMACxY0RABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEEAUABNAFMARwBQAFUAQgBFAFIAUgBQABQVCg5TAFEATABFAHgAZQBjAAsWNEQARQBMAEUAVABFACAARgBSAE8ATQAgAFAAUwBBAFAATQBTAEcAUABVAEIAQwBFAFIAUgAUFQoOUwBRAEwARQB4AGUAYwALFjZEAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMAQQBQAE0AUwBHAFAAVQBCAEMARQBSAFIAUAAUFQoOUwBRAEwARQB4AGUAYwALFjREAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMAQQBQAE0AUwBHAFMAVQBCAEMARQBSAFIAFBUKDlMAUQBMAEUAeABlAGMACxY2RABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEEAUABNAFMARwBTAFUAQgBDAEUAUgBSAFAAFBUKDlMAUQBMAEUAeABlAGMACxY2RABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEEAUABNAFMARwBQAEMATwBOAEQAQQBUAEEAFBUKDlMAUQBMAEUAeABlAGMACxY2RABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEEAUABNAFMARwBTAEMATwBOAEQAQQBUAEEAFBUKDlMAUQBMAEUAeABlAGMACxYmRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEkAQgBFAFIAUgAUFQoOUwBRAEwARQB4AGUAYwALFihEAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMASQBCAEUAUgBSAFAAFBUKDlMAUQBMAEUAeABlAGMACxYwRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEkAQgBEAEUAQgBVAEcATABPAEcAFBUKDlMAUQBMAEUAeABlAGMACxYyRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEEAUABNAFMARwBJAEIAQQBUAFQAUgAUFQoOUwBRAEwARQB4AGUAYwALFixEAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMASQBCAEEARQBBAFQAVABSABQVCg5TAFEATABFAHgAZQBjAAsWMkQARQBMAEUAVABFACAARgBSAE8ATQAgAFAAUwBJAEIAUgBFAEwATQBTAEcAUwBFAFEAFBUKDlMAUQBMAEUAeABlAGMACxYyRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEkAQgBSAEUATABNAFMARwBIAEQAUgAUFQoOUwBRAEwARQB4AGUAYwALFjREAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMASQBCAFIARQBMAE0AUwBHAEQAQQBUAEEAFBUKDlMAUQBMAEUAeABlAGMACxY0RABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEEAUABNAFMARwBEAE8ATQBTAFQAQQBUABQVCg5TAFEATABFAHgAZQBjAAsWNEQARQBMAEUAVABFACAARgBSAE8ATQAgAFAAUwBBAFAATQBTAEcARABTAFAAUwBUAEEAVAAUFU8KDlMAUQBMAEUAeABlAGMACxYsRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEkAQgBMAE8ARwBIAEQAUgAUFQoOUwBRAEwARQB4AGUAYwALFi5EAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMASQBCAEwATwBHAEQAQQBUAEEAFBUKDlMAUQBMAEUAeABlAGMACxYsRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEkAQgBMAE8ARwBFAFIAUgAUFQoOUwBRAEwARQB4AGUAYwALFi5EAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMASQBCAEwATwBHAEUAUgBSAFAAFBUKDlMAUQBMAEUAeABlAGMACxYyRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEkAQgBMAE8ARwBJAEIASQBOAEYATwAUFU8KDlMAUQBMAEUAeABlAGMACxYyRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEEAUABNAFMARwBBAFIAQwBIAFAASAAUFQoOUwBRAEwARQB4AGUAYwALFjJEAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMAQQBQAE0AUwBHAEEAUgBDAEgAUABEABQVCg5TAFEATABFAHgAZQBjAAsWMkQARQBMAEUAVABFACAARgBSAE8ATQAgAFAAUwBBAFAATQBTAEcAQQBSAEMASABQAEMAFBUKDlMAUQBMAEUAeABlAGMACxYyRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEEAUABNAFMARwBBAFIAQwBIAFMAQwAUFQoOUwBRAEwARQB4AGUAYwALFjJEAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMAQQBQAE0AUwBHAEEAUgBDAEgAUABUABQVCg5TAFEATABFAHgAZQBjAAsWMkQARQBMAEUAVABFACAARgBSAE8ATQAgAFAAUwBBAFAATQBTAEcAQQBSAEMASABTAFQAFBUKDlMAUQBMAEUAeABlAGMACxY0RABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAEkAQgBMAE8ARwBIAEQAUgBBAFIAQwBIABQVCg5TAFEATABFAHgAZQBjAAsWNkQARQBMAEUAVABFACAARgBSAE8ATQAgAFAAUwBJAEIATABPAEcARABBAFQAQQBBAFIAQwBIABQVCg5TAFEATABFAHgAZQBjAAsWNkQARQBMAEUAVABFACAARgBSAE8ATQAgAFAAUwBJAEIATABPAEcASQBCAEkATgBGAE8AQQBSABQVTwoOUwBRAEwARQB4AGUAYwALFixEAEUATABFAFQARQAgAEYAUgBPAE0AIABQAFMASQBCAEYAQwBMAE8AQwBLABQVCg5TAFEATABFAHgAZQBjAAsWLkQARQBMAEUAVABFACAARgBSAE8ATQAgAFAAUwBJAEIAQQBEAFMATABPAEMASwAUFU8KDlMAUQBMAEUAeABlAGMACxYuRABFAEwARQBUAEUAIABGAFIATwBNACAAUABTAE4ATwBEAEUAUwBEAE8AVwBOABQVZBUtB1wC/wEAAAAA/wAAQAAHPlIARQBOAEEATQBFAF8ATgBPAEQARQBfAFAASwBHADoAUAB1AHIAZwBlAEkAQgBNAGUAcwBzAGEAZwBlAHMAAAAHGnAAdQByAGcAZQBNAGUAcwBzAGEAZwBlAHMAAf8BAAAAB4UAAA==</peoplecode_blob>
+  </instance>
+  <instance class="PCM">
+    <rowset name="PcmProg" size="2240" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-15.30.25.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>100948</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <eObjectID_0>104</eObjectID_0>
+        <szObjectValue_0>RENAME_NODE_PKG</szObjectValue_0>
+        <eObjectID_1>107</eObjectID_1>
+        <szObjectValue_1>RenameNode</szObjectValue_1>
+        <eObjectID_2>12</eObjectID_2>
+        <szObjectValue_2>OnExecute</szObjectValue_2>
+        <eObjectID_3>0</eObjectID_3>
+        <szObjectValue_3></szObjectValue_3>
+        <eObjectID_4>0</eObjectID_4>
+        <szObjectValue_4></szObjectValue_4>
+        <eObjectID_5>0</eObjectID_5>
+        <szObjectValue_5></szObjectValue_5>
+        <eObjectID_6>0</eObjectID_6>
+        <szObjectValue_6></szObjectValue_6>
+        <nNameCount>4</nNameCount>
+        <lpProgSource> POINTER
+          <rowset name="PcmProgSource" size="64" count="1">
+            <row>
+              <lSourceLen>1933</lSourceLen>
+              <lpSource>custom field</lpSource>
+              <lEntryNamesLen>108</lEntryNamesLen>
+              <nEntry>3</nEntry>
+              <lpEntryTab>custom field</lpEntryTab>
+              <nParams>5</nParams>
+              <lpParams>custom field</lpParams>
+              <nPCVersion>133</nPCVersion>
+            </row>
+          </rowset>
+        </lpProgSource>
+        <nProgSource>1</nProgSource>
+        <lpPnt> POINTER
+          <rowset name="PcmPnt" size="2136" count="4">
+            <row>
+              <szRecName></szRecName>
+              <szFieldName></szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>APIOBJECT</szFieldName>
+              <szPackageRoot>ApiObject</szPackageRoot>
+              <szQualifyPath>ApiObject</szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>COMPINTFC</szRecName>
+              <szFieldName>RENAME_NODE_CI</szFieldName>
+              <szPackageRoot></szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod></szAppClassMethod>
+            </row>
+            <row>
+              <szRecName>PACKAGE</szRecName>
+              <szFieldName>RENAMENODE</szFieldName>
+              <szPackageRoot>RENAME_NODE_PKG</szPackageRoot>
+              <szQualifyPath></szQualifyPath>
+              <szAppClassMethod>HANDLECIERRORS</szAppClassMethod>
+            </row>
+          </rowset>
+        </lpPnt>
+        <lpProgCode>custom field</lpProgCode>
+        <nProgCode>0</nProgCode>
+        <eRunLocation>0</eRunLocation>
+        <szLicenseCode></szLicenseCode>
+        <lpHashTable>POINTER</lpHashTable>
+        <eProgFlag>0</eProgFlag>
+        <szExtendsClass></szExtendsClass>
+        <szCompiledRelease></szCompiledRelease>
+      </row>
+    </rowset>
+    <peoplecode_text>class RenameNode
+   method RenameNodes(&amp;oldNodeName As string, &amp;newNodeName As string);
+private
+   method handleCIErrors(&amp;baseMessage As string);
+end-class;
+
+method RenameNodes
+   /+ &amp;oldNodeName as String, +/
+   /+ &amp;newNodeName as String +/
+   
+   Local ApiObject &amp;ci;
+   
+   &amp;ci = %Session.GetCompIntfc(CompIntfc.RENAME_NODE_CI);
+   If &amp;ci = Null Then
+      throw CreateException(0, 0, &quot;The user does not have permissions for RENAME_NODE_CI&quot;);
+   End-If;
+   
+   &amp;ci.OLD_NODE_NAME = &amp;oldNodeName;
+   
+   &amp;ci.EditHistoryItems = False;
+   &amp;ci.GetHistoryItems = False;
+   &amp;ci.GetDummyRows = True;
+   &amp;ci.InteractiveMode = True;
+   
+   If Not &amp;ci.Get() Then
+      %This.handleCIErrors(&quot;Old node name '&quot; | &amp;oldNodeName | &quot;' does not exist&quot;);
+   End-If;
+   
+   &amp;ci.NEW_NODE_NAME = &amp;newNodeName;
+   
+   If Not &amp;ci.save() Then
+      %This.handleCIErrors(&quot;Unable to rename node '&quot; | &amp;oldNodeName | &quot;' to '&quot; | &amp;newNodeName | &quot;'&quot;);
+   End-If;
+end-method;
+
+method handleCIErrors
+   /+ &amp;baseMessage as String +/
+   Local ApiObject &amp;messages;
+   Local number &amp;i;
+   Local string &amp;errors;
+   
+   &amp;messages = %Session.PSMessages;
+   For &amp;i = 1 To &amp;messages.Count
+      &amp;errors = &amp;errors | &amp;messages.Item(&amp;i).Text;
+   End-For;
+   &amp;messages.DeleteAll();
+   
+   throw CreateException(0, 0, &amp;baseMessage | &quot;: &quot; | &amp;errors);
+end-method;
+
+</peoplecode_text>
+    <peoplecode_blob>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</peoplecode_blob>
+  </instance>
+  <instance class="SRVM">
+    <rowset name="Service" size="1936" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-13.06.15.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>20</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szIb_servicename>RENAME_NODE</szIb_servicename>
+        <szIb_namespace>http://xmlns.oracle.com/Enterprise/HCM/services</szIb_namespace>
+        <szIb_aliasname></szIb_aliasname>
+        <cPsftservice_flag>N</cPsftservice_flag>
+        <nRestService>2</nRestService>
+        <nOpenAPI>0</nOpenAPI>
+        <szPtibapplname></szPtibapplname>
+        <szIbExternalUserId></szIbExternalUserId>
+        <szIbExternalPwd></szIbExternalPwd>
+        <szTokenType>NONE</szTokenType>
+        <szDescr>Rename a node</szDescr>
+        <lpszDescrlong>POINTER</lpszDescrlong>
+        <nDescrlongLen>0</nDescrlongLen>
+        <lpServiceuddi>POINTER</lpServiceuddi>
+        <nServiceuddiCnt>0</nServiceuddiCnt>
+        <lpServiceopr> POINTER
+          <rowset name="Serviceopr" size="62" count="1">
+            <row>
+              <szOperationname>RENAME_NODE_OP_POST</szOperationname>
+            </row>
+          </rowset>
+        </lpServiceopr>
+        <nServiceoprCnt>1</nServiceoprCnt>
+        <lpServicelang>POINTER</lpServicelang>
+        <nServicelangCnt>0</nServicelangCnt>
+        <szLanguageCd>ENG</szLanguageCd>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="OPRM">
+    <rowset name="Operation" size="1688" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-13.55.41.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>39</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szOperationname>RENAME_NODE_OP_POST</szOperationname>
+        <szDefaultversion>v1</szDefaultversion>
+        <cRtngtype>S</cRtngtype>
+        <cUserpwdreq>Y</cUserpwdreq>
+        <cRequestStatus>R</cRequestStatus>
+        <nActiveDataGuard>0</nActiveDataGuard>
+        <nThinkTime>0</nThinkTime>
+        <nConNav>0</nConNav>
+        <nReadOnlyPermission>0</nReadOnlyPermission>
+        <szRestmethod>POST</szRestmethod>
+        <nRestService>2</nRestService>
+        <szRestBaseurl>https://domain.tld/PSIGW/RESTListeningConnector/PSFT_HR/RENAME_NODE_OP.v1/</szRestBaseurl>
+        <nRestOverride>0</nRestOverride>
+        <szServicename>RENAME_NODE</szServicename>
+        <szPtibapplname></szPtibapplname>
+        <szIb_aliasname>RENAME_NODE_OP</szIb_aliasname>
+        <szMessagename></szMessagename>
+        <szMessageversion></szMessageversion>
+        <szDescr>Rename a node definition</szDescr>
+        <lpszDescrlong>POINTER</lpszDescrlong>
+        <nDescrlongLen>0</nDescrlongLen>
+        <lpOperationlang>POINTER</lpOperationlang>
+        <nOperationlangCnt>0</nOperationlangCnt>
+        <lpOperationuritemplate> POINTER
+          <rowset name="Operationuritemplate" size="184" count="1">
+            <row>
+              <nURISeq>1</nURISeq>
+              <szIbtransactionid></szIbtransactionid>
+              <nReserved>0</nReserved>
+              <szRootResource></szRootResource>
+              <lpszURITemplate> POINTER
+                <rowset name="char" size="20" count="1">
+                  <row>
+                    <lpszURITemplate>RenameNode</lpszURITemplate>
+                  </row>
+                </rowset>
+              </lpszURITemplate>
+              <nURITemplateLen>20</nURITemplateLen>
+              <lpOperationuridata>POINTER</lpOperationuridata>
+              <nOperationuridataCnt>0</nOperationuridataCnt>
+            </row>
+          </rowset>
+        </lpOperationuritemplate>
+        <nOperationuritmplCnt>1</nOperationuritmplCnt>
+        <lpOperationhandler> POINTER
+          <rowset name="Operationhandler" size="80" count="1">
+            <row>
+              <szHandlername>REQUESTHDLR</szHandlername>
+              <szHandlerid>RQST</szHandlerid>
+              <cActive_flag>A</cActive_flag>
+              <nSeqnumber>0</nSeqnumber>
+            </row>
+          </rowset>
+        </lpOperationhandler>
+        <nOperationhandlerCnt>1</nOperationhandlerCnt>
+        <lpOperationversion> POINTER
+          <rowset name="Operationversion" size="62" count="1">
+            <row>
+              <szVersionname>v1</szVersionname>
+            </row>
+          </rowset>
+        </lpOperationversion>
+        <nOperationversionCnt>1</nOperationversionCnt>
+        <lpIburitrans>POINTER</lpIburitrans>
+        <nIburitransCnt>0</nIburitransCnt>
+        <szLanguageCd>ENG</szLanguageCd>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="OPRHM">
+    <rowset name="Oprhdlr" size="952" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-13.55.41.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>35</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szOperationname>RENAME_NODE_OP_POST</szOperationname>
+        <szHandlername>REQUESTHDLR</szHandlername>
+        <szHandleraliasname></szHandleraliasname>
+        <szHandlerid>RQST</szHandlerid>
+        <szHandlerowner></szHandlerowner>
+        <szHandlertype>ApplicationClass</szHandlertype>
+        <cActive_flag>A</cActive_flag>
+        <nSeqnumber>0</nSeqnumber>
+        <cRollback_flag>N</cRollback_flag>
+        <szAttributeName></szAttributeName>
+        <szAttributeValue></szAttributeValue>
+        <nDMSRollBack>32</nDMSRollBack>
+        <nDMSMode>0</nDMSMode>
+        <cSubProc_flag>N</cSubProc_flag>
+        <szDescr>Rename a node definition</szDescr>
+        <lpszDescrlong>POINTER</lpszDescrlong>
+        <nDescrlongLen>0</nDescrlongLen>
+        <lpOperationac> POINTER
+          <rowset name="Operationac" size="564" count="1">
+            <row>
+              <szPackageid></szPackageid>
+              <szPackageroot>RENAME_NODE_PKG</szPackageroot>
+              <szQualifypath></szQualifypath>
+              <szClassname>IBHandler</szClassname>
+              <szMethodname>OnRequest</szMethodname>
+            </row>
+          </rowset>
+        </lpOperationac>
+        <nOperationacCnt>1</nOperationacCnt>
+        <lpOperationci>POINTER</lpOperationci>
+        <nOperationciCnt>0</nOperationciCnt>
+        <lpOperationdms>POINTER</lpOperationdms>
+        <nOperationdmsCnt>0</nOperationdmsCnt>
+        <lpOperationae>POINTER</lpOperationae>
+        <nOperationaeCnt>0</nOperationaeCnt>
+        <lpOprhdlrlang>POINTER</lpOprhdlrlang>
+        <nOprhdlrlangCnt>0</nOprhdlrlangCnt>
+        <szLanguageCd>ENG</szLanguageCd>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="OPRVM">
+    <rowset name="Oprverdfn" size="696" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-13.55.41.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>191</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szOperationname>RENAME_NODE_OP_POST</szOperationname>
+        <szVersionname>v1</szVersionname>
+        <cActive_flag>A</cActive_flag>
+        <cNr_flag>N</cNr_flag>
+        <cValidation>N</cValidation>
+        <nValidationLevel>1</nValidationLevel>
+        <cSyncnonblock>N</cSyncnonblock>
+        <cExport_flag>N</cExport_flag>
+        <cMulti_queue>N</cMulti_queue>
+        <cExcludeToken> </cExcludeToken>
+        <cClientimplement>N</cClientimplement>
+        <szIbdoclayoutname></szIbdoclayoutname>
+        <szDescr>Rename a node definition</szDescr>
+        <lpszDescrlong>POINTER</lpszDescrlong>
+        <nDescrlongLen>0</nDescrlongLen>
+        <lpOprverdfnparm> POINTER
+          <rowset name="Oprverdfnparm" size="1512" count="3">
+            <row>
+              <szParametername>REQUEST</szParametername>
+              <szMessagename>RENAME_NODE_REQ</szMessagename>
+              <szMessageversion>1</szMessageversion>
+              <szOutxfrmname></szOutxfrmname>
+              <szXfrmname></szXfrmname>
+              <szQueuename></szQueuename>
+              <szNextMultiQueue></szNextMultiQueue>
+              <nHTTPStatusCode>0</nHTTPStatusCode>
+              <szContentType>application/json</szContentType>
+              <lpOprvdparmtype>POINTER</lpOprvdparmtype>
+              <nOprvdparmtypeCnt>0</nOprvdparmtypeCnt>
+              <lpOprvdconttype>POINTER</lpOprvdconttype>
+              <nOprvdconttypeCnt>0</nOprvdconttypeCnt>
+            </row>
+            <row>
+              <szParametername>RESPONSE</szParametername>
+              <szMessagename>RENAME_NODE_RSP</szMessagename>
+              <szMessageversion>1</szMessageversion>
+              <szOutxfrmname></szOutxfrmname>
+              <szXfrmname></szXfrmname>
+              <szQueuename></szQueuename>
+              <szNextMultiQueue></szNextMultiQueue>
+              <nHTTPStatusCode>200</nHTTPStatusCode>
+              <szContentType>application/json</szContentType>
+              <lpOprvdparmtype>POINTER</lpOprvdparmtype>
+              <nOprvdparmtypeCnt>0</nOprvdparmtypeCnt>
+              <lpOprvdconttype>POINTER</lpOprvdconttype>
+              <nOprvdconttypeCnt>0</nOprvdconttypeCnt>
+            </row>
+            <row>
+              <szParametername>Z_FAULT</szParametername>
+              <szMessagename>RENAME_NODE_RSP</szMessagename>
+              <szMessageversion>1</szMessageversion>
+              <szOutxfrmname></szOutxfrmname>
+              <szXfrmname></szXfrmname>
+              <szQueuename></szQueuename>
+              <szNextMultiQueue></szNextMultiQueue>
+              <nHTTPStatusCode>402</nHTTPStatusCode>
+              <szContentType>application/json</szContentType>
+              <lpOprvdparmtype>POINTER</lpOprvdparmtype>
+              <nOprvdparmtypeCnt>0</nOprvdparmtypeCnt>
+              <lpOprvdconttype>POINTER</lpOprvdconttype>
+              <nOprvdconttypeCnt>0</nOprvdconttypeCnt>
+            </row>
+          </rowset>
+        </lpOprverdfnparm>
+        <nOprverdfnparmCnt>3</nOprverdfnparmCnt>
+        <lpOprverqueparm>POINTER</lpOprverqueparm>
+        <nOprverqueparmCnt>0</nOprverqueparmCnt>
+        <lpOprverdfnlang>POINTER</lpOprverdfnlang>
+        <nOprverdfnlangCnt>0</nOprverdfnlangCnt>
+        <lpOprvgenrtgparm> POINTER
+          <rowset name="Oprvgenrtgparm" size="94" count="1">
+            <row>
+              <szParametername>PUBSRVCSYNC</szParametername>
+              <szRoutingdefnname>~GENERATED~66700338</szRoutingdefnname>
+            </row>
+          </rowset>
+        </lpOprvgenrtgparm>
+        <nOprvgenrtgparmCnt>1</nOprvgenrtgparmCnt>
+        <lpOprvdeploy>POINTER</lpOprvdeploy>
+        <nOprvdeployCnt>0</nOprvdeployCnt>
+        <szLanguageCd>ENG</szLanguageCd>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="RTDM">
+    <rowset name="Ibrtngdefn" size="1240" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-13.06.15.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>3986</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szRoutingdefnname>~GENERATED~66700338</szRoutingdefnname>
+        <szEffdt>1900-01-01</szEffdt>
+        <cEff_status>A</cEff_status>
+        <szSendernodename>~~ANY~~</szSendernodename>
+        <szReceivernodename>PSFT_HR</szReceivernodename>
+        <szOperationname>RENAME_NODE_OP_POST</szOperationname>
+        <szOperationversion>v1</szOperationversion>
+        <cRtngtype>S</cRtngtype>
+        <nDelayProcessing>0</nDelayProcessing>
+        <szRestmethod>POST</szRestmethod>
+        <cSyncnonblock>N</cSyncnonblock>
+        <cAcceptcompression> </cAcceptcompression>
+        <cInclude_details>N</cInclude_details>
+        <cOnorderSegments>N</cOnorderSegments>
+        <cConnoverride>N</cConnoverride>
+        <szConngatewayid></szConngatewayid>
+        <szConnid></szConnid>
+        <nLogmsgdtlflg>2</nLogmsgdtlflg>
+        <nDeliveryMode>0</nDeliveryMode>
+        <szOnsndhdlrname></szOnsndhdlrname>
+        <szOnrcvhdlrname></szOnrcvhdlrname>
+        <szOnprehdlrname></szOnprehdlrname>
+        <szOnposthdlrname></szOnposthdlrname>
+        <cGenerated>Y</cGenerated>
+        <cARRSecureEndpoint>N</cARRSecureEndpoint>
+        <nLocalIndication>2</nLocalIndication>
+        <szDescr>GENERATED</szDescr>
+        <lpszDescrlong>POINTER</lpszDescrlong>
+        <nDescrlongLen>0</nDescrlongLen>
+        <lpIbrtngsubdefn> POINTER
+          <rowset name="Ibrtngsubdefn" size="640" count="1">
+            <row>
+              <nSeqnum>1</nSeqnum>
+              <cDirection>I</cDirection>
+              <cRtngtype>S</cRtngtype>
+              <szSendernodename>~~ANY~~</szSendernodename>
+              <szReceivernodename>PSFT_HR</szReceivernodename>
+              <szAliasname>RENAME_NODE_OP.v1</szAliasname>
+            </row>
+          </rowset>
+        </lpIbrtngsubdefn>
+        <nIbrtngsubdefnCnt>1</nIbrtngsubdefnCnt>
+        <lpRtngdfnconprp>POINTER</lpRtngdfnconprp>
+        <nRtngdfnconprpCnt>0</nRtngdfnconprpCnt>
+        <lpRtngdfnparm> POINTER
+          <rowset name="Rtngdfnparm" size="3400" count="2">
+            <row>
+              <szParametername>INREQUEST</szParametername>
+              <szSendernodename>~~ANY~~</szSendernodename>
+              <szReceivernodename>PSFT_HR</szReceivernodename>
+              <szXfrmname></szXfrmname>
+              <szXfrmnamesecond></szXfrmnamesecond>
+              <szInmsgname></szInmsgname>
+              <szInmsgversion></szInmsgversion>
+              <szOutmsgname></szOutmsgname>
+              <szOutmsgversion></szOutmsgversion>
+              <szAliasname>RENAME_NODE_OP.v1</szAliasname>
+              <szOperationversion>v1</szOperationversion>
+              <bOverrideSecurity>0</bOverrideSecurity>
+              <szIbExternalUserId></szIbExternalUserId>
+              <szIbExternalPwd></szIbExternalPwd>
+              <szTokenType>NONE</szTokenType>
+              <bTokenEncrypted>0</bTokenEncrypted>
+              <cEncryptLevel>H</cEncryptLevel>
+              <bTokenSigned>0</bTokenSigned>
+            </row>
+            <row>
+              <szParametername>OUTRESPONSE</szParametername>
+              <szSendernodename>PSFT_HR</szSendernodename>
+              <szReceivernodename>~~ANY~~</szReceivernodename>
+              <szXfrmname></szXfrmname>
+              <szXfrmnamesecond></szXfrmnamesecond>
+              <szInmsgname></szInmsgname>
+              <szInmsgversion></szInmsgversion>
+              <szOutmsgname></szOutmsgname>
+              <szOutmsgversion></szOutmsgversion>
+              <szAliasname>RENAME_NODE_OP.v1</szAliasname>
+              <szOperationversion>v1</szOperationversion>
+              <bOverrideSecurity>0</bOverrideSecurity>
+              <szIbExternalUserId></szIbExternalUserId>
+              <szIbExternalPwd></szIbExternalPwd>
+              <szTokenType>NONE</szTokenType>
+              <bTokenEncrypted>0</bTokenEncrypted>
+              <cEncryptLevel>H</cEncryptLevel>
+              <bTokenSigned>0</bTokenSigned>
+            </row>
+          </rowset>
+        </lpRtngdfnparm>
+        <nRtngdfnparmCnt>2</nRtngdfnparmCnt>
+        <lpRtngdfnprop>POINTER</lpRtngdfnprop>
+        <nRtngdfnpropCnt>0</nRtngdfnpropCnt>
+        <lpRtngdfnlang>POINTER</lpRtngdfnlang>
+        <nRtngdfnlangCnt>0</nRtngdfnlangCnt>
+        <szLanguageCd>ENG</szLanguageCd>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="LSDM">
+    <rowset name="LSDEFN" size="480" count="1">
+      <row>
+        <m_bIsPrivate>0</m_bIsPrivate>
+        <m_bIsContainer>1</m_bIsContainer>
+        <m_bIsImported>0</m_bIsImported>
+        <m_bComplexPrimitive>0</m_bComplexPrimitive>
+        <m_bIsAppService>0</m_bIsAppService>
+        <m_nAutoGenerated>0</m_nAutoGenerated>
+        <m_bIsAllAttributes>0</m_bIsAllAttributes>
+        <m_bIsLastSeqCollPrim>0</m_bIsLastSeqCollPrim>
+        <m_nCIIndex>0</m_nCIIndex>
+        <m_nElementNameCount>0</m_nElementNameCount>
+        <m_pElementNames>HANDLE</m_pElementNames>
+        <m_nMaxElementId>6</m_nMaxElementId>
+        <szLastUpdDttm>2022-10-25-13.01.42.677000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>13</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <m_key.m_atmPackageName>RENAME_NODES</m_key.m_atmPackageName>
+        <m_key.m_atmLogicalSchemaName>RENAME_NODE_REQ</m_key.m_atmLogicalSchemaName>
+        <m_key.m_atmVariantName>1</m_key.m_atmVariantName>
+        <szLanguageCd>ENG</szLanguageCd>
+        <m_atmLabel>RENAME_NODE_REQ</m_atmLabel>
+        <m_nDescriptionLength>0</m_nDescriptionLength>
+        <m_pszDescription>HANDLE</m_pszDescription>
+        <m_nLanguageCount>0</m_nLanguageCount>
+        <m_pLanguages>HANDLE</m_pLanguages>
+        <m_nElementCount>6</m_nElementCount>
+        <m_pElements> HANDLE
+          <rowset name="LSELEMENT" size="528" count="6">
+            <row>
+              <m_atmName>old_node_name</m_atmName>
+              <m_bIsRequired>1</m_bIsRequired>
+              <m_nSequenceNumber>1</m_nSequenceNumber>
+              <m_atmLabel></m_atmLabel>
+              <m_nId>1</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="LSPRIMITIVE" size="48" count="1">
+                  <row>
+                    <m_eType>3</m_eType>
+                    <m_nLength>30</m_nLength>
+                    <m_nFractionalDigits>0</m_nFractionalDigits>
+                    <m_nFormatIndex>0</m_nFormatIndex>
+                    <m_atmMaxInclusive></m_atmMaxInclusive>
+                    <m_atmMinInclusive></m_atmMinInclusive>
+                    <m_nEnumCount>0</m_nEnumCount>
+                    <m_pEnum>HANDLE</m_pEnum>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_atmName>new_node_name</m_atmName>
+              <m_bIsRequired>1</m_bIsRequired>
+              <m_nSequenceNumber>2</m_nSequenceNumber>
+              <m_atmLabel>New node name</m_atmLabel>
+              <m_nId>2</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="LSPRIMITIVE" size="48" count="1">
+                  <row>
+                    <m_eType>3</m_eType>
+                    <m_nLength>30</m_nLength>
+                    <m_nFractionalDigits>0</m_nFractionalDigits>
+                    <m_nFormatIndex>0</m_nFormatIndex>
+                    <m_atmMaxInclusive></m_atmMaxInclusive>
+                    <m_atmMinInclusive></m_atmMinInclusive>
+                    <m_nEnumCount>0</m_nEnumCount>
+                    <m_pEnum>HANDLE</m_pEnum>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_atmName>node_password</m_atmName>
+              <m_bIsRequired>0</m_bIsRequired>
+              <m_nSequenceNumber>3</m_nSequenceNumber>
+              <m_atmLabel>Optional, new node password</m_atmLabel>
+              <m_nId>3</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="LSPRIMITIVE" size="48" count="1">
+                  <row>
+                    <m_eType>3</m_eType>
+                    <m_nLength>32</m_nLength>
+                    <m_nFractionalDigits>0</m_nFractionalDigits>
+                    <m_nFormatIndex>0</m_nFormatIndex>
+                    <m_atmMaxInclusive></m_atmMaxInclusive>
+                    <m_atmMinInclusive></m_atmMinInclusive>
+                    <m_nEnumCount>0</m_nEnumCount>
+                    <m_pEnum>HANDLE</m_pEnum>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_atmName>portal_uri</m_atmName>
+              <m_bIsRequired>0</m_bIsRequired>
+              <m_nSequenceNumber>4</m_nSequenceNumber>
+              <m_atmLabel>Optional, Portal URI</m_atmLabel>
+              <m_nId>4</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="LSPRIMITIVE" size="48" count="1">
+                  <row>
+                    <m_eType>3</m_eType>
+                    <m_nLength>4000</m_nLength>
+                    <m_nFractionalDigits>0</m_nFractionalDigits>
+                    <m_nFormatIndex>0</m_nFormatIndex>
+                    <m_atmMaxInclusive></m_atmMaxInclusive>
+                    <m_atmMinInclusive></m_atmMinInclusive>
+                    <m_nEnumCount>0</m_nEnumCount>
+                    <m_pEnum>HANDLE</m_pEnum>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_atmName>content_uri</m_atmName>
+              <m_bIsRequired>0</m_bIsRequired>
+              <m_nSequenceNumber>5</m_nSequenceNumber>
+              <m_atmLabel>Optional, content URI</m_atmLabel>
+              <m_nId>5</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="LSPRIMITIVE" size="48" count="1">
+                  <row>
+                    <m_eType>3</m_eType>
+                    <m_nLength>4000</m_nLength>
+                    <m_nFractionalDigits>0</m_nFractionalDigits>
+                    <m_nFormatIndex>0</m_nFormatIndex>
+                    <m_atmMaxInclusive></m_atmMaxInclusive>
+                    <m_atmMinInclusive></m_atmMinInclusive>
+                    <m_nEnumCount>0</m_nEnumCount>
+                    <m_pEnum>HANDLE</m_pEnum>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_atmName>purge_messages</m_atmName>
+              <m_bIsRequired>0</m_bIsRequired>
+              <m_nSequenceNumber>6</m_nSequenceNumber>
+              <m_atmLabel>If true, appmsgpurgeall.dms will be run automatically before node rename.</m_atmLabel>
+              <m_nId>6</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="LSPRIMITIVE" size="48" count="1">
+                  <row>
+                    <m_eType>1</m_eType>
+                    <m_nLength>0</m_nLength>
+                    <m_nFractionalDigits>0</m_nFractionalDigits>
+                    <m_nFormatIndex>0</m_nFormatIndex>
+                    <m_atmMaxInclusive></m_atmMaxInclusive>
+                    <m_atmMinInclusive></m_atmMinInclusive>
+                    <m_nEnumCount>0</m_nEnumCount>
+                    <m_pEnum>HANDLE</m_pEnum>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+          </rowset>
+        </m_pElements>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="LSDM">
+    <rowset name="LSDEFN" size="480" count="1">
+      <row>
+        <m_bIsPrivate>0</m_bIsPrivate>
+        <m_bIsContainer>1</m_bIsContainer>
+        <m_bIsImported>0</m_bIsImported>
+        <m_bComplexPrimitive>0</m_bComplexPrimitive>
+        <m_bIsAppService>0</m_bIsAppService>
+        <m_nAutoGenerated>0</m_nAutoGenerated>
+        <m_bIsAllAttributes>0</m_bIsAllAttributes>
+        <m_bIsLastSeqCollPrim>0</m_bIsLastSeqCollPrim>
+        <m_nCIIndex>0</m_nCIIndex>
+        <m_nElementNameCount>0</m_nElementNameCount>
+        <m_pElementNames>HANDLE</m_pElementNames>
+        <m_nMaxElementId>2</m_nMaxElementId>
+        <szLastUpdDttm>2022-10-25-13.03.42.820000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>16</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <m_key.m_atmPackageName>RENAME_NODES</m_key.m_atmPackageName>
+        <m_key.m_atmLogicalSchemaName>RENAME_NODE_RSP</m_key.m_atmLogicalSchemaName>
+        <m_key.m_atmVariantName>1</m_key.m_atmVariantName>
+        <szLanguageCd>ENG</szLanguageCd>
+        <m_atmLabel>RENAME_NODE_RSP</m_atmLabel>
+        <m_nDescriptionLength>0</m_nDescriptionLength>
+        <m_pszDescription>HANDLE</m_pszDescription>
+        <m_nLanguageCount>0</m_nLanguageCount>
+        <m_pLanguages>HANDLE</m_pLanguages>
+        <m_nElementCount>2</m_nElementCount>
+        <m_pElements> HANDLE
+          <rowset name="LSELEMENT" size="176" count="2">
+            <row>
+              <m_atmName>success</m_atmName>
+              <m_bIsRequired>1</m_bIsRequired>
+              <m_nSequenceNumber>1</m_nSequenceNumber>
+              <m_atmLabel></m_atmLabel>
+              <m_nId>1</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="LSPRIMITIVE" size="48" count="1">
+                  <row>
+                    <m_eType>1</m_eType>
+                    <m_nLength>0</m_nLength>
+                    <m_nFractionalDigits>0</m_nFractionalDigits>
+                    <m_nFormatIndex>0</m_nFormatIndex>
+                    <m_atmMaxInclusive></m_atmMaxInclusive>
+                    <m_atmMinInclusive></m_atmMinInclusive>
+                    <m_nEnumCount>0</m_nEnumCount>
+                    <m_pEnum>HANDLE</m_pEnum>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_atmName>error_message</m_atmName>
+              <m_bIsRequired>0</m_bIsRequired>
+              <m_nSequenceNumber>2</m_nSequenceNumber>
+              <m_atmLabel>Error messages, if any</m_atmLabel>
+              <m_nId>2</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="LSPRIMITIVE" size="48" count="1">
+                  <row>
+                    <m_eType>3</m_eType>
+                    <m_nLength>4000</m_nLength>
+                    <m_nFractionalDigits>0</m_nFractionalDigits>
+                    <m_nFormatIndex>0</m_nFormatIndex>
+                    <m_atmMaxInclusive></m_atmMaxInclusive>
+                    <m_atmMinInclusive></m_atmMinInclusive>
+                    <m_nEnumCount>0</m_nEnumCount>
+                    <m_pEnum>HANDLE</m_pEnum>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+          </rowset>
+        </m_pElements>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="XSDM">
+    <rowset name="XMLDEFN" size="568" count="1">
+      <row>
+        <m_eXmlType>0</m_eXmlType>
+        <m_pTargetNamespace> POINTER
+          <rowset name="XmlNamespace" size="32" count="1">
+            <row>
+              <m_nPrefixLen>0</m_nPrefixLen>
+              <m_pszPrefix>POINTER</m_pszPrefix>
+              <m_nURILen>160</m_nURILen>
+              <m_pszURI> POINTER
+                <rowset name="char" size="160" count="1">
+                  <row>
+                    <m_pszURI>http://xmlns.oracle.com/Enterprise/Tools/schemas/RENAME_NODES.RENAME_NODE_REQ.1</m_pszURI>
+                  </row>
+                </rowset>
+              </m_pszURI>
+            </row>
+          </rowset>
+        </m_pTargetNamespace>
+        <m_nTargetNamespaceCount>1</m_nTargetNamespaceCount>
+        <m_pImportedNamespaces>POINTER</m_pImportedNamespaces>
+        <m_nImportedNamespaceCount>0</m_nImportedNamespaceCount>
+        <m_eDefaultPrimitiveNodeType>1</m_eDefaultPrimitiveNodeType>
+        <m_bTrimWhitespace>0</m_bTrimWhitespace>
+        <m_bFilterBlankElements>0</m_bFilterBlankElements>
+        <m_bIncludeCollectionTags>0</m_bIncludeCollectionTags>
+        <m_bIncludeDescriptionsAsComments>0</m_bIncludeDescriptionsAsComments>
+        <m_bIncludeMetadata>0</m_bIncludeMetadata>
+        <m_bNoNamespace>0</m_bNoNamespace>
+        <m_nAttributes>0</m_nAttributes>
+        <m_bAbsolutePath>0</m_bAbsolutePath>
+        <szLastUpdDttm>2022-10-25-13.01.42.707000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>23</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <m_key.m_atmPhysicalSchemaName>XML</m_key.m_atmPhysicalSchemaName>
+        <m_eType>160</m_eType>
+        <m_szSubtype></m_szSubtype>
+        <m_bIsReadOnly>0</m_bIsReadOnly>
+        <m_bIsValid>0</m_bIsValid>
+        <m_key.m_atmPackageName>RENAME_NODES</m_key.m_atmPackageName>
+        <m_key.m_atmLogicalSchemaName>RENAME_NODE_REQ</m_key.m_atmLogicalSchemaName>
+        <m_key.m_atmVariantName>1</m_key.m_atmVariantName>
+        <szLanguageCd></szLanguageCd>
+        <m_atmLabel>RENAME_NODE_REQ</m_atmLabel>
+        <m_nDescriptionLength>0</m_nDescriptionLength>
+        <m_pszDescription>HANDLE</m_pszDescription>
+        <m_nLanguageCount>0</m_nLanguageCount>
+        <m_pLanguages>HANDLE</m_pLanguages>
+        <m_nElementCount>6</m_nElementCount>
+        <m_pElements> HANDLE
+          <rowset name="XMLELEMENT" size="432" count="6">
+            <row>
+              <m_nNamespacePrefixLen>0</m_nNamespacePrefixLen>
+              <m_pszNamespacePrefix>POINTER</m_pszNamespacePrefix>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>old_node_name</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nId>1</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="XMLPRIMITIVE" size="12" count="1">
+                  <row>
+                    <m_bTrimWhitespace>0</m_bTrimWhitespace>
+                    <m_eXmlNodeType>1</m_eXmlNodeType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nNamespacePrefixLen>0</m_nNamespacePrefixLen>
+              <m_pszNamespacePrefix>POINTER</m_pszNamespacePrefix>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>new_node_name</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nId>2</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="XMLPRIMITIVE" size="12" count="1">
+                  <row>
+                    <m_bTrimWhitespace>0</m_bTrimWhitespace>
+                    <m_eXmlNodeType>1</m_eXmlNodeType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nNamespacePrefixLen>0</m_nNamespacePrefixLen>
+              <m_pszNamespacePrefix>POINTER</m_pszNamespacePrefix>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>node_password</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nId>3</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="XMLPRIMITIVE" size="12" count="1">
+                  <row>
+                    <m_bTrimWhitespace>0</m_bTrimWhitespace>
+                    <m_eXmlNodeType>1</m_eXmlNodeType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nNamespacePrefixLen>0</m_nNamespacePrefixLen>
+              <m_pszNamespacePrefix>POINTER</m_pszNamespacePrefix>
+              <m_nTagNameLen>22</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="22" count="1">
+                  <row>
+                    <m_pszTagName>portal_uri</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nId>4</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="XMLPRIMITIVE" size="12" count="1">
+                  <row>
+                    <m_bTrimWhitespace>0</m_bTrimWhitespace>
+                    <m_eXmlNodeType>1</m_eXmlNodeType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nNamespacePrefixLen>0</m_nNamespacePrefixLen>
+              <m_pszNamespacePrefix>POINTER</m_pszNamespacePrefix>
+              <m_nTagNameLen>24</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="24" count="1">
+                  <row>
+                    <m_pszTagName>content_uri</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nId>5</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="XMLPRIMITIVE" size="12" count="1">
+                  <row>
+                    <m_bTrimWhitespace>0</m_bTrimWhitespace>
+                    <m_eXmlNodeType>1</m_eXmlNodeType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nNamespacePrefixLen>0</m_nNamespacePrefixLen>
+              <m_pszNamespacePrefix>POINTER</m_pszNamespacePrefix>
+              <m_nTagNameLen>30</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="30" count="1">
+                  <row>
+                    <m_pszTagName>purge_messages</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nId>6</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="XMLPRIMITIVE" size="12" count="1">
+                  <row>
+                    <m_bTrimWhitespace>0</m_bTrimWhitespace>
+                    <m_eXmlNodeType>1</m_eXmlNodeType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+          </rowset>
+        </m_pElements>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="XSDM">
+    <rowset name="XMLDEFN" size="568" count="1">
+      <row>
+        <m_eXmlType>0</m_eXmlType>
+        <m_pTargetNamespace> POINTER
+          <rowset name="XmlNamespace" size="32" count="1">
+            <row>
+              <m_nPrefixLen>0</m_nPrefixLen>
+              <m_pszPrefix>POINTER</m_pszPrefix>
+              <m_nURILen>160</m_nURILen>
+              <m_pszURI> POINTER
+                <rowset name="char" size="160" count="1">
+                  <row>
+                    <m_pszURI>http://xmlns.oracle.com/Enterprise/Tools/schemas/RENAME_NODES.RENAME_NODE_RSP.1</m_pszURI>
+                  </row>
+                </rowset>
+              </m_pszURI>
+            </row>
+          </rowset>
+        </m_pTargetNamespace>
+        <m_nTargetNamespaceCount>1</m_nTargetNamespaceCount>
+        <m_pImportedNamespaces>POINTER</m_pImportedNamespaces>
+        <m_nImportedNamespaceCount>0</m_nImportedNamespaceCount>
+        <m_eDefaultPrimitiveNodeType>1</m_eDefaultPrimitiveNodeType>
+        <m_bTrimWhitespace>0</m_bTrimWhitespace>
+        <m_bFilterBlankElements>0</m_bFilterBlankElements>
+        <m_bIncludeCollectionTags>0</m_bIncludeCollectionTags>
+        <m_bIncludeDescriptionsAsComments>0</m_bIncludeDescriptionsAsComments>
+        <m_bIncludeMetadata>0</m_bIncludeMetadata>
+        <m_bNoNamespace>0</m_bNoNamespace>
+        <m_nAttributes>0</m_nAttributes>
+        <m_bAbsolutePath>0</m_bAbsolutePath>
+        <szLastUpdDttm>2022-10-25-13.03.42.867000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>30</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <m_key.m_atmPhysicalSchemaName>XML</m_key.m_atmPhysicalSchemaName>
+        <m_eType>160</m_eType>
+        <m_szSubtype></m_szSubtype>
+        <m_bIsReadOnly>0</m_bIsReadOnly>
+        <m_bIsValid>0</m_bIsValid>
+        <m_key.m_atmPackageName>RENAME_NODES</m_key.m_atmPackageName>
+        <m_key.m_atmLogicalSchemaName>RENAME_NODE_RSP</m_key.m_atmLogicalSchemaName>
+        <m_key.m_atmVariantName>1</m_key.m_atmVariantName>
+        <szLanguageCd></szLanguageCd>
+        <m_atmLabel>RENAME_NODE_RSP</m_atmLabel>
+        <m_nDescriptionLength>0</m_nDescriptionLength>
+        <m_pszDescription>HANDLE</m_pszDescription>
+        <m_nLanguageCount>0</m_nLanguageCount>
+        <m_pLanguages>HANDLE</m_pLanguages>
+        <m_nElementCount>2</m_nElementCount>
+        <m_pElements> HANDLE
+          <rowset name="XMLELEMENT" size="144" count="2">
+            <row>
+              <m_nNamespacePrefixLen>0</m_nNamespacePrefixLen>
+              <m_pszNamespacePrefix>POINTER</m_pszNamespacePrefix>
+              <m_nTagNameLen>16</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="16" count="1">
+                  <row>
+                    <m_pszTagName>success</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nId>1</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="XMLPRIMITIVE" size="12" count="1">
+                  <row>
+                    <m_bTrimWhitespace>0</m_bTrimWhitespace>
+                    <m_eXmlNodeType>1</m_eXmlNodeType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nNamespacePrefixLen>0</m_nNamespacePrefixLen>
+              <m_pszNamespacePrefix>POINTER</m_pszNamespacePrefix>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>error_message</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nId>2</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="XMLPRIMITIVE" size="12" count="1">
+                  <row>
+                    <m_bTrimWhitespace>0</m_bTrimWhitespace>
+                    <m_eXmlNodeType>1</m_eXmlNodeType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+          </rowset>
+        </m_pElements>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="DSCMA">
+    <rowset name="DocScmadfn" size="1392" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-13.01.42.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>23</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szIb_packageid>RENAME_NODES</szIb_packageid>
+        <szIb_schemaname>RENAME_NODE_REQ</szIb_schemaname>
+        <szIb_variantname>1</szIb_variantname>
+        <szPublisher>peoplesoft.info</szPublisher>
+        <szIb_tgtlocation>https://domain.tld/PSIGW/PeopleSoftServiceListeningConnector/PSFT_HR</szIb_tgtlocation>
+        <pScmaChunk> POINTER
+          <rowset name="pDataChunk" size="16" count="1">
+            <row>
+              <pDataChunk> POINTER
+                <rowset name="char" size="2464" count="1">
+                  <row>
+                    <pDataChunk>eJzNlc9uozAQxu8r7TsgPwAmbU9Rk2ql0lObapse9oYcMwVLxnZtE7JvvwMJxLRkpewqUo/+PPPzx/wRt3e7SkZbsE5otSCzOCF3y+/fbncunzteQsUi5r0Vm9rDg7bVPbyxWvoFqdV7zaR4E5CTCCRUoPwoILj2zBbgV6wCZxiHBSm9N3NK8WnlYm0ZlxBzXdFUebDGCgf0VWvp6N6Coy/p6sdTmq2e79N1HByyl/RnPCNRR7oUd47FGNhN08TNNcILepUkM/rr6XHdwciyK9qhFJHCr12QD0gsxW/zWc5eUV2XzAChewqaNhJ2rT5NClL2GQ7ea1AcplxomWdK55C1x97DSOxw2Lr+/XG+guZz/kg8lV8J9cx5bbE3CelpbZJhzjXa5gMtFM+hGW09k1ltRY86KudwuMYZUT4EBdJZjmqc9gxn3bEC3OBqpIY8Om4f/dD/Q3tFKwTzMN2+fbAFhyvLPa50tGEOozsEaqo4hFRs9wiq8GW0ZbLGiOuk/7amFB7W7aL2dwaBYLcwuA0e6P0P/k74nR6XL+x3ciD/w+/VZf1OTP2/m71JkguXd2q3vrLfE+v7N8sb/NMAU8cVD96gx//r8g/5R7TQ</pDataChunk>
+                  </row>
+                </rowset>
+              </pDataChunk>
+              <nChunkSequence>0</nChunkSequence>
+              <nChunkSize>1232</nChunkSize>
+            </row>
+          </rowset>
+        </pScmaChunk>
+        <nNumberOfChunks>1</nNumberOfChunks>
+        <pJScmaChunk> POINTER
+          <rowset name="pDataChunk" size="16" count="1">
+            <row>
+              <pDataChunk> POINTER
+                <rowset name="char" size="1584" count="1">
+                  <row>
+                    <pDataChunk>eJydkL1OwzAUhfc8RWUYaZwQxJANtRFCKgUaVAaEIje+JK4SX2M7BFT13XGcpXQqLJZ8zv3uz9kF5NyUNbSMpBNSW6tSSrcG5XRUQ9QV5Zq922l0TUftjFxMHCY4ST1hHKIMh884KU3Ys6Zh/gmBd/Qxv7t9oassf14IY0EKWc1QSigtajrP1nEyy529vLnPiuXDPMvDg0+xyp7COBz28TOtsA0Mix7VjOa38h5utq67l5RGBdoKMM7YBQQbXkjkUEjWDrW7A8xY7XZzGGnZ1wJkZWsnJ9F+aCSh/yc4QIoZ06Pmp4GXHlSoLWuKTouTqKsoGgeWKF3K9u+g6nQFRQvGsGrM64DdIDbAJJkEvlbDRyc0DAe9HoXq2v8O620f7IMfga6/2g==</pDataChunk>
+                  </row>
+                </rowset>
+              </pDataChunk>
+              <nChunkSequence>0</nChunkSequence>
+              <nChunkSize>792</nChunkSize>
+            </row>
+          </rowset>
+        </pJScmaChunk>
+        <nNumberOfJChunks>1</nNumberOfJChunks>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="DSCMA">
+    <rowset name="DocScmadfn" size="1392" count="1">
+      <row>
+        <szLastUpdDttm>2022-10-25-13.03.42.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>26</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <szIb_packageid>RENAME_NODES</szIb_packageid>
+        <szIb_schemaname>RENAME_NODE_RSP</szIb_schemaname>
+        <szIb_variantname>1</szIb_variantname>
+        <szPublisher>peoplesoft.info</szPublisher>
+        <szIb_tgtlocation>https://domain.tld/PSIGW/PeopleSoftServiceListeningConnector/PSFT_HR</szIb_tgtlocation>
+        <pScmaChunk> POINTER
+          <rowset name="pDataChunk" size="16" count="1">
+            <row>
+              <pDataChunk> POINTER
+                <rowset name="char" size="2000" count="1">
+                  <row>
+                    <pDataChunk>eJy1k8tuwjAQRfeV+g+RPyAObVeIgCqRrnhUhEV3kTFDYsl2gh8k/fs6Lxpo2l2Xvp45c2fGni0qwb0LKM1yGaKJH6DF/PFhVunjVNMMBPGIMYodrIG3XIklnIjlJkRWni3h7MTgiDzgIECam4DBtSEqBbMhAnRBKIQoM6aYYuxKS+3nilAOPs0FjqQBVSimAe/znGvcWtB4F21e11Gy2S6j2B8ckl387k+Q15D+izt1w7iyy7L0y2cHT/FTEEzwx3oVNzA0b4bWjcKTrtsQ3SHdKD6Ln3Kyd2qckQIQbinOdMGhqvVx0iClzdBwtiApjLnQllLQuq/eHRuEW1dfs88RTG4ptcrNM0AdAZTKVeL2p0kKPedGHNLwrSF811FnmNXCoMN7W22YAu2eHzXueXoHol1crR7cFoHI72JX2C/wca9/lag1mXYhglQrkKnJvAvh1kW8BEHQD67MmIG4ftn9beGQoC5w9TcoMeIYf/+2+RfCVkOU</pDataChunk>
+                  </row>
+                </rowset>
+              </pDataChunk>
+              <nChunkSequence>0</nChunkSequence>
+              <nChunkSize>1000</nChunkSize>
+            </row>
+          </rowset>
+        </pScmaChunk>
+        <nNumberOfChunks>1</nNumberOfChunks>
+        <pJScmaChunk> POINTER
+          <rowset name="pDataChunk" size="16" count="1">
+            <row>
+              <pDataChunk> POINTER
+                <rowset name="char" size="1328" count="1">
+                  <row>
+                    <pDataChunk>eJxdkMtqwzAQRff+CqN22Ug2KV14VxITCmkaotIuQjGKPbEVbEkdyX0Q/O+VZSghG8Hce888dI7IrS0b6ATJYtI4ZzLGTlar2aRSjTWrUBzdLHlgk3ZD7mKPyYpkgbAeMbaCr3ReWvot2laEh0LVsy1/Wr2zXc5f19I6UFLVC60UlE4jW+Zv6XzBvb15fM6Lzcsy5/SiKHZ8S1M67hNmOulaGBe9ykzmrwmePpx89yAZ1AbQSbDeOEfE9mUJNhQXwEHrFoQicTSMECBqLDqfEzVcRa1Df4DvTTrxswZVu8bL90mSBBThs5cI/mPi/f+wjyEaoj8Ikm/m</pDataChunk>
+                  </row>
+                </rowset>
+              </pDataChunk>
+              <nChunkSequence>0</nChunkSequence>
+              <nChunkSize>664</nChunkSize>
+            </row>
+          </rowset>
+        </pJScmaChunk>
+        <nNumberOfJChunks>1</nNumberOfJChunks>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="JDM">
+    <rowset name="JSONDEFN" size="512" count="1">
+      <row>
+        <m_atmPrimaryJsonName>RENAME_NODE_REQ</m_atmPrimaryJsonName>
+        <m_bHideObject>0</m_bHideObject>
+        <szLastUpdDttm>2022-10-25-13.01.42.747000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>24</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <m_key.m_atmPhysicalSchemaName>JSON</m_key.m_atmPhysicalSchemaName>
+        <m_eType>177</m_eType>
+        <m_szSubtype></m_szSubtype>
+        <m_bIsReadOnly>0</m_bIsReadOnly>
+        <m_bIsValid>0</m_bIsValid>
+        <m_key.m_atmPackageName>RENAME_NODES</m_key.m_atmPackageName>
+        <m_key.m_atmLogicalSchemaName>RENAME_NODE_REQ</m_key.m_atmLogicalSchemaName>
+        <m_key.m_atmVariantName>1</m_key.m_atmVariantName>
+        <szLanguageCd></szLanguageCd>
+        <m_atmLabel>RENAME_NODE_REQ</m_atmLabel>
+        <m_nDescriptionLength>0</m_nDescriptionLength>
+        <m_pszDescription>HANDLE</m_pszDescription>
+        <m_nLanguageCount>0</m_nLanguageCount>
+        <m_pLanguages>HANDLE</m_pLanguages>
+        <m_nElementCount>6</m_nElementCount>
+        <m_pElements> HANDLE
+          <rowset name="JSONELEMENT" size="336" count="6">
+            <row>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>old_node_name</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>1</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="JSONPRIMITIVE" size="32" count="1">
+                  <row>
+                    <m_nDateFormatLength>0</m_nDateFormatLength>
+                    <m_pszDateFormat>POINTER</m_pszDateFormat>
+                    <m_bExponent>0</m_bExponent>
+                    <m_bLastPrimitive>0</m_bLastPrimitive>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>new_node_name</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>2</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="JSONPRIMITIVE" size="32" count="1">
+                  <row>
+                    <m_nDateFormatLength>0</m_nDateFormatLength>
+                    <m_pszDateFormat>POINTER</m_pszDateFormat>
+                    <m_bExponent>0</m_bExponent>
+                    <m_bLastPrimitive>0</m_bLastPrimitive>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>node_password</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>3</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="JSONPRIMITIVE" size="32" count="1">
+                  <row>
+                    <m_nDateFormatLength>0</m_nDateFormatLength>
+                    <m_pszDateFormat>POINTER</m_pszDateFormat>
+                    <m_bExponent>0</m_bExponent>
+                    <m_bLastPrimitive>0</m_bLastPrimitive>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>22</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="22" count="1">
+                  <row>
+                    <m_pszTagName>portal_uri</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>4</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="JSONPRIMITIVE" size="32" count="1">
+                  <row>
+                    <m_nDateFormatLength>0</m_nDateFormatLength>
+                    <m_pszDateFormat>POINTER</m_pszDateFormat>
+                    <m_bExponent>0</m_bExponent>
+                    <m_bLastPrimitive>0</m_bLastPrimitive>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>24</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="24" count="1">
+                  <row>
+                    <m_pszTagName>content_uri</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>5</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="JSONPRIMITIVE" size="32" count="1">
+                  <row>
+                    <m_nDateFormatLength>0</m_nDateFormatLength>
+                    <m_pszDateFormat>POINTER</m_pszDateFormat>
+                    <m_bExponent>0</m_bExponent>
+                    <m_bLastPrimitive>0</m_bLastPrimitive>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>30</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="30" count="1">
+                  <row>
+                    <m_pszTagName>purge_messages</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>6</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="JSONPRIMITIVE" size="32" count="1">
+                  <row>
+                    <m_nDateFormatLength>0</m_nDateFormatLength>
+                    <m_pszDateFormat>POINTER</m_pszDateFormat>
+                    <m_bExponent>0</m_bExponent>
+                    <m_bLastPrimitive>0</m_bLastPrimitive>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+          </rowset>
+        </m_pElements>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="JDM">
+    <rowset name="JSONDEFN" size="512" count="1">
+      <row>
+        <m_atmPrimaryJsonName>RENAME_NODE_RSP</m_atmPrimaryJsonName>
+        <m_bHideObject>0</m_bHideObject>
+        <szLastUpdDttm>2022-10-25-13.03.42.900000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>31</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <m_key.m_atmPhysicalSchemaName>JSON</m_key.m_atmPhysicalSchemaName>
+        <m_eType>177</m_eType>
+        <m_szSubtype></m_szSubtype>
+        <m_bIsReadOnly>0</m_bIsReadOnly>
+        <m_bIsValid>0</m_bIsValid>
+        <m_key.m_atmPackageName>RENAME_NODES</m_key.m_atmPackageName>
+        <m_key.m_atmLogicalSchemaName>RENAME_NODE_RSP</m_key.m_atmLogicalSchemaName>
+        <m_key.m_atmVariantName>1</m_key.m_atmVariantName>
+        <szLanguageCd></szLanguageCd>
+        <m_atmLabel>RENAME_NODE_RSP</m_atmLabel>
+        <m_nDescriptionLength>0</m_nDescriptionLength>
+        <m_pszDescription>HANDLE</m_pszDescription>
+        <m_nLanguageCount>0</m_nLanguageCount>
+        <m_pLanguages>HANDLE</m_pLanguages>
+        <m_nElementCount>2</m_nElementCount>
+        <m_pElements> HANDLE
+          <rowset name="JSONELEMENT" size="112" count="2">
+            <row>
+              <m_nTagNameLen>16</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="16" count="1">
+                  <row>
+                    <m_pszTagName>success</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>1</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="JSONPRIMITIVE" size="32" count="1">
+                  <row>
+                    <m_nDateFormatLength>0</m_nDateFormatLength>
+                    <m_pszDateFormat>POINTER</m_pszDateFormat>
+                    <m_bExponent>0</m_bExponent>
+                    <m_bLastPrimitive>0</m_bLastPrimitive>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>error_message</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>2</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="JSONPRIMITIVE" size="32" count="1">
+                  <row>
+                    <m_nDateFormatLength>0</m_nDateFormatLength>
+                    <m_pszDateFormat>POINTER</m_pszDateFormat>
+                    <m_bExponent>0</m_bExponent>
+                    <m_bLastPrimitive>0</m_bLastPrimitive>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+          </rowset>
+        </m_pElements>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="HSDM">
+    <rowset name="HTMLDEFN" size="504" count="1">
+      <row>
+        <m_atmPrimaryHtmlName>RENAME_NODE_REQ</m_atmPrimaryHtmlName>
+        <szLastUpdDttm>2022-10-25-13.01.42.860000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>25</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <m_key.m_atmPhysicalSchemaName>HTML</m_key.m_atmPhysicalSchemaName>
+        <m_eType>191</m_eType>
+        <m_szSubtype></m_szSubtype>
+        <m_bIsReadOnly>0</m_bIsReadOnly>
+        <m_bIsValid>0</m_bIsValid>
+        <m_key.m_atmPackageName>RENAME_NODES</m_key.m_atmPackageName>
+        <m_key.m_atmLogicalSchemaName>RENAME_NODE_REQ</m_key.m_atmLogicalSchemaName>
+        <m_key.m_atmVariantName>1</m_key.m_atmVariantName>
+        <szLanguageCd></szLanguageCd>
+        <m_atmLabel>RENAME_NODE_REQ</m_atmLabel>
+        <m_nDescriptionLength>0</m_nDescriptionLength>
+        <m_pszDescription>HANDLE</m_pszDescription>
+        <m_nLanguageCount>0</m_nLanguageCount>
+        <m_pLanguages>HANDLE</m_pLanguages>
+        <m_nElementCount>6</m_nElementCount>
+        <m_pElements> HANDLE
+          <rowset name="HTMLELEMENT" size="336" count="6">
+            <row>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>old_node_name</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>1</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="HTMLPRIMITIVE" size="8" count="1">
+                  <row>
+                    <m_nHtmlType>1</m_nHtmlType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>new_node_name</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>2</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="HTMLPRIMITIVE" size="8" count="1">
+                  <row>
+                    <m_nHtmlType>1</m_nHtmlType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>node_password</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>3</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="HTMLPRIMITIVE" size="8" count="1">
+                  <row>
+                    <m_nHtmlType>1</m_nHtmlType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>22</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="22" count="1">
+                  <row>
+                    <m_pszTagName>portal_uri</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>4</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="HTMLPRIMITIVE" size="8" count="1">
+                  <row>
+                    <m_nHtmlType>1</m_nHtmlType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>24</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="24" count="1">
+                  <row>
+                    <m_pszTagName>content_uri</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>5</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="HTMLPRIMITIVE" size="8" count="1">
+                  <row>
+                    <m_nHtmlType>1</m_nHtmlType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>30</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="30" count="1">
+                  <row>
+                    <m_pszTagName>purge_messages</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>6</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="HTMLPRIMITIVE" size="8" count="1">
+                  <row>
+                    <m_nHtmlType>1</m_nHtmlType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+          </rowset>
+        </m_pElements>
+      </row>
+    </rowset>
+  </instance>
+  <instance class="HSDM">
+    <rowset name="HTMLDEFN" size="504" count="1">
+      <row>
+        <m_atmPrimaryHtmlName>RENAME_NODE_RSP</m_atmPrimaryHtmlName>
+        <szLastUpdDttm>2022-10-25-13.03.43.000000</szLastUpdDttm>
+        <szLastUpdOprId>peoplesoft.info</szLastUpdOprId>
+        <szObjectOwnerId></szObjectOwnerId>
+        <nUseCount>1</nUseCount>
+        <bUseUpdate>1</bUseUpdate>
+        <lVersion>32</lVersion>
+        <lSwapVersion>0</lSwapVersion>
+        <nSwapNum>0</nSwapNum>
+        <m_key.m_atmPhysicalSchemaName>HTML</m_key.m_atmPhysicalSchemaName>
+        <m_eType>191</m_eType>
+        <m_szSubtype></m_szSubtype>
+        <m_bIsReadOnly>0</m_bIsReadOnly>
+        <m_bIsValid>0</m_bIsValid>
+        <m_key.m_atmPackageName>RENAME_NODES</m_key.m_atmPackageName>
+        <m_key.m_atmLogicalSchemaName>RENAME_NODE_RSP</m_key.m_atmLogicalSchemaName>
+        <m_key.m_atmVariantName>1</m_key.m_atmVariantName>
+        <szLanguageCd></szLanguageCd>
+        <m_atmLabel>RENAME_NODE_RSP</m_atmLabel>
+        <m_nDescriptionLength>0</m_nDescriptionLength>
+        <m_pszDescription>HANDLE</m_pszDescription>
+        <m_nLanguageCount>0</m_nLanguageCount>
+        <m_pLanguages>HANDLE</m_pLanguages>
+        <m_nElementCount>2</m_nElementCount>
+        <m_pElements> HANDLE
+          <rowset name="HTMLELEMENT" size="112" count="2">
+            <row>
+              <m_nTagNameLen>16</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="16" count="1">
+                  <row>
+                    <m_pszTagName>success</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>1</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="HTMLPRIMITIVE" size="8" count="1">
+                  <row>
+                    <m_nHtmlType>1</m_nHtmlType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+            <row>
+              <m_nTagNameLen>28</m_nTagNameLen>
+              <m_pszTagName> POINTER
+                <rowset name="char" size="28" count="1">
+                  <row>
+                    <m_pszTagName>error_message</m_pszTagName>
+                  </row>
+                </rowset>
+              </m_pszTagName>
+              <m_nNotLastSequence>0</m_nNotLastSequence>
+              <m_nId>2</m_nId>
+              <m_bIsPrimitive>1</m_bIsPrimitive>
+              <m_bIsCompound>0</m_bIsCompound>
+              <m_bIsCollection>0</m_bIsCollection>
+              <m_pPrimitive> HANDLE
+                <rowset name="HTMLPRIMITIVE" size="8" count="1">
+                  <row>
+                    <m_nHtmlType>1</m_nHtmlType>
+                    <dummy></dummy>
+                  </row>
+                </rowset>
+              </m_pPrimitive>
+              <m_pCompound>HANDLE</m_pCompound>
+              <m_pCollection>HANDLE</m_pCollection>
+            </row>
+          </rowset>
+        </m_pElements>
+      </row>
+    </rowset>
+  </instance>
